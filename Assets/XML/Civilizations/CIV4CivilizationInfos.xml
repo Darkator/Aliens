@@ -791,7 +791,7 @@
 					<UnitType>UNIT_GERMAN_TANK_DESTROYER</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_TANK_ARTILLERY</UnitClassType>
+					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
 					<UnitType>UNIT_TANK_GERMAN_ARTILLERY</UnitType>
 				</Unit>
 				<Unit>
@@ -803,7 +803,7 @@
 					<UnitType>UNIT_MESSERSCHMIT_BF110</UnitType>
 				</Unit>
 				<Unit>
-					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
+					<UnitClassType>UNITCLASS_STRATEGIC_BOMBER2</UnitClassType>
 					<UnitType>UNIT_ME_163</UnitType>
 				</Unit>
 				<Unit>
@@ -849,6 +849,18 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_BATTLESHIP</UnitClassType>
 					<UnitType>UNIT_BISMARCK</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TANK_ARTILLERY</UnitClassType>
+					<UnitType>UNIT_WESPE</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
+					<UnitType>UNIT_BF109G10</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_AVANCED2_FIGHTER</UnitClassType>
+					<UnitType>UNIT_FW190_D9</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -2032,6 +2044,10 @@
 					<UnitClassType>UNITCLASS_TANK_DESTROYER</UnitClassType>
 					<UnitType>UNIT_SU85</UnitType>
 				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
+					<UnitType>UNIT_ISU152</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 			<FreeUnitClass>
@@ -2797,7 +2813,28 @@
 				<City>TXT_KEY_CITY_NAME_WW2_BALKAN9</City>
 			</Cities>
 			<Buildings/>
-			<Units/>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_TANK</UnitClassType>
+					<UnitType>UNIT_R35</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_FIGHTER</UnitClassType>
+					<UnitType>UNIT_MESSERSCHMIT_BF109</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SECOND_FIGHTER</UnitClassType>
+					<UnitType>UNIT_D520</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MEDIUM_BOMBER</UnitClassType>
+					<UnitType>UNIT_DO17</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_AT_FIGHTER</UnitClassType>
+					<UnitType>UNIT_JU87</UnitType>
+				</Unit>
+			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
@@ -4055,7 +4092,44 @@
 				<City>TXT_KEY_CITY_NAME_WW2_BALKAN40</City>
 			</Cities>
 			<Buildings/>
-			<Units/>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_MEDIUM_TANK</UnitClassType>
+					<UnitType>UNIT_PANZER3</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MEDIUM2_TANK</UnitClassType>
+					<UnitType>UNIT_PANZER4</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_TANK</UnitClassType>
+					<UnitType>UNIT_PANZER6TIGER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TANK</UnitClassType>
+					<UnitType>UNIT_GERMAN_PANZER</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
+					<UnitType>UNIT_TANK_GERMAN_ARTILLERY</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
+					<UnitType>UNIT_BF109G10</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_AT_FIGHTER</UnitClassType>
+					<UnitType>UNIT_JU87</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_STRATEGIC_BOMBER</UnitClassType>
+					<UnitType>UNIT_JU_88</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_HEAVY_FIGHTER</UnitClassType>
+					<UnitType>UNIT_MESSERSCHMIT_BF110</UnitType>
+				</Unit>
+			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
@@ -4176,7 +4250,16 @@
 				<City>TXT_KEY_CITY_NAME_WW2_BALKAN40</City>
 			</Cities>
 			<Buildings/>
-			<Units/>
+			<Units>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_TANK</UnitClassType>
+					<UnitType>UNIT_R35</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
+					<UnitType>UNIT_BF109G10</UnitType>
+				</Unit>
+			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
@@ -4584,7 +4667,7 @@
 			<DefaultPlayerColor>PLAYERCOLOR_BLACK</DefaultPlayerColor>
 			<ArtDefineTag>ART_DEF_CIVILIZATION_BARBARIAN</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
-			<UnitArtStyleType>UNIT_ARTSTYLE_EUROPEAN</UnitArtStyleType>
+			<UnitArtStyleType>UNIT_ASRSTYLE_ALIEN</UnitArtStyleType>
 			<bPlayable>1</bPlayable>
 			<bAIPlayable>1</bAIPlayable>
 			<Cities>

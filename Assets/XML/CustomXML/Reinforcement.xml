@@ -137,7 +137,7 @@
 				<Unit>
 					<Type>UNIT_ALEN_WARRIOR</Type>
 					<LeaderUnit>NONE</LeaderUnit>
-					<iQuantity>35</iQuantity>
+					<iQuantity>30</iQuantity>
 					<bCapital>0</bCapital>
 					<iPlotX>63</iPlotX>
 					<iPlotY>14</iPlotY>
@@ -152,7 +152,7 @@
 				<Unit>
 					<Type>UNIT_ALEN_CRUSHER</Type>
 					<LeaderUnit>NONE</LeaderUnit>
-					<iQuantity>2</iQuantity>
+					<iQuantity>8</iQuantity>
 					<bCapital>0</bCapital>
 					<iPlotX>63</iPlotX>
 					<iPlotY>14</iPlotY>
@@ -160,6 +160,78 @@
 					<iExperience>5</iExperience>
 					<Promotion>PROMOTION_COMBAT1</Promotion>
 					<Promotion>PROMOTION_COMBAT2</Promotion>
+					<Promotion>PROMOTION_PINCH</Promotion>
+					<Promotion>PROMOTION_LEADERSHIP</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+			</Units>
+			
+			<Message>NONE</Message>
+		</Event>
+		<Event>
+			<Owner>CIVILIZATION_ALIEN</Owner>
+			<iDate>NONE</iDate>
+			<iTurn>42</iTurn>
+			<sTriggerMap>NONE</sTriggerMap>
+			<sIgnoreMap>NONE</sIgnoreMap>
+			
+			<Units>
+				<Unit>
+					<Type>UNIT_ALIEN_WORKER</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>4</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>70</iPlotX>
+					<iPlotY>11</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_COMBAT1</Promotion>
+					<Promotion>PROMOTION_PINCH</Promotion>
+					<Promotion>PROMOTION_LEADERSHIP</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_ALIEN_WORKER</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>4</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>70</iPlotX>
+					<iPlotY>14</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_COMBAT1</Promotion>
+					<Promotion>PROMOTION_PINCH</Promotion>
+					<Promotion>PROMOTION_LEADERSHIP</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_ALIEN_WORKER</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>4</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>67</iPlotX>
+					<iPlotY>11</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_COMBAT1</Promotion>
+					<Promotion>PROMOTION_PINCH</Promotion>
+					<Promotion>PROMOTION_LEADERSHIP</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_ALIEN_WORKER</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>4</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>67</iPlotX>
+					<iPlotY>15</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_COMBAT1</Promotion>
 					<Promotion>PROMOTION_PINCH</Promotion>
 					<Promotion>PROMOTION_LEADERSHIP</Promotion>
 					<iImmobile>0</iImmobile>

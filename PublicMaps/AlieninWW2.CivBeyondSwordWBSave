@@ -14,7 +14,6 @@ BeginGame
 	Option=GAMEOPTION_NO_GOODY_HUTS
 	Victory=VICTORY_TIME
 	Victory=VICTORY_CONQUEST
-	Victory=VICTORY_DOMINATION
 	GameTurn=0
 	MaxTurns=500
 	MaxCityElimination=0
@@ -970,7 +969,7 @@ BeginPlayer
 	WhiteFlag=0
 	CivType=CIVILIZATION_ALIEN
 	Color=PLAYERCOLOR_BLACK
-	ArtStyle=ARTSTYLE_BARBARIAN
+	ArtStyle=UNIT_ASRSTYLE_ALIEN
 	PlayableCiv=1
 	MinorNationStatus=0
 	StartingGold=0
@@ -20059,7 +20058,7 @@ BeginPlot
 EndPlot
 BeginPlot
 	x=59,y=19
-	BonusType=BONUS_IRON
+	BonusType=BONUS_ALUMINUM
 	RouteType=ROUTE_RAILROAD
 	TerrainType=TERRAIN_GRASS
 	PlotType=1
@@ -23627,6 +23626,7 @@ BeginPlot
 		BuildingType=BUILDING_KNOLEDGE
 		BuildingType=BUILDING_NEST
 		BuildingType=BUILDING_CATACOMBS
+		ReligionType=RELIGION_WW2_NEUTRAL
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
 EndPlot

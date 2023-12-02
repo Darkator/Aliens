@@ -27,8 +27,8 @@
 			<iHealth>3</iHealth>
 			<iHappiness>3</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>1</iAsset>
+			<iPower>1</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -99,8 +99,8 @@
 			<iHealth>10</iHealth>
 			<iHappiness>10</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>1</iAsset>
+			<iPower>1</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -171,8 +171,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>1</iAsset>
+			<iPower>1</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -244,7 +244,7 @@
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
 				<iAsset>8</iAsset>
-				<iPower>8</iPower>
+				<iPower>3</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -321,8 +321,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>5</iAsset>
+			<iPower>2</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -395,8 +395,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>5</iAsset>
+			<iPower>2</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -471,8 +471,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>1</iAsset>
+			<iPower>1</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -544,8 +544,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>12</iAsset>
+			<iPower>6</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -618,8 +618,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>12</iPower>
+				<iAsset>16</iAsset>
+				<iPower>8</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -698,8 +698,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>8</iPower>
+			<iAsset>6</iAsset>
+			<iPower>3</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -773,8 +773,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>12</iAsset>
+			<iPower>6</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -849,8 +849,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>16</iPower>
+				<iAsset>24</iAsset>
+				<iPower>13</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -930,8 +930,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>14</iPower>
+			<iAsset>16</iAsset>
+			<iPower>10</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1004,8 +1004,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>12</iPower>
+			<iAsset>18</iAsset>
+			<iPower>11</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1161,8 +1161,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>15</iPower>
+			<iAsset>26</iAsset>
+			<iPower>14</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1238,8 +1238,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>12</iPower>
+			<iAsset>12</iAsset>
+			<iPower>6</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1313,8 +1313,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>14</iPower>
+			<iAsset>16</iAsset>
+			<iPower>10</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1388,8 +1388,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>15</iPower>
+			<iAsset>21</iAsset>
+			<iPower>12</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1463,8 +1463,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>2</iPower>
+			<iAsset>8</iAsset>
+			<iPower>5</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1537,8 +1537,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>4</iPower>
+			<iAsset>14</iAsset>
+			<iPower>8</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1613,8 +1613,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>6</iPower>
+			<iAsset>23</iAsset>
+			<iPower>13</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1689,8 +1689,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>5</iPower>
+			<iAsset>26</iAsset>
+			<iPower>14</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -1765,8 +1765,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>10</iPower>
+				<iAsset>6</iAsset>
+				<iPower>2</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -1843,7 +1843,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
+			<iAsset>20</iAsset>
 			<iPower>10</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
@@ -1917,8 +1917,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>11</iPower>
+				<iAsset>11</iAsset>
+				<iPower>5</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -1994,8 +1994,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>14</iPower>
+				<iAsset>15</iAsset>
+				<iPower>9</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2075,8 +2075,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>2</iPower>
+			<iAsset>14</iAsset>
+			<iPower>10</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
 			<bDisable>0</bDisable>
@@ -2151,8 +2151,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>2</iPower>
+				<iAsset>23</iAsset>
+				<iPower>13</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2230,8 +2230,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>4</iPower>
+				<iAsset>5</iAsset>
+				<iPower>3</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2308,8 +2308,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>8</iPower>
+				<iAsset>14</iAsset>
+				<iPower>7</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2371,7 +2371,7 @@
 		</TechInfo>
 		<TechInfo>
 				<Type>TECH_ADVANCED_SHIPYARDIII</Type>
-				<Description>Better welding methods</Description>
+				<Description>Better ships armor material</Description>
 				<Civilopedia>TXT_KEY_TECH_INDUSTRIALISM_PEDIA</Civilopedia>
 				<Help/>
 				<Strategy>TXT_KEY_TECH_INDUSTRIALISM_STRATEGY</Strategy>
@@ -2389,8 +2389,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>12</iPower>
+				<iAsset>16</iAsset>
+				<iPower>10</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2475,8 +2475,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>16</iPower>
+				<iAsset>22</iAsset>
+				<iPower>13</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -2556,7 +2556,7 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
+				<iAsset>12</iAsset>
 				<iPower>6</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
@@ -2636,7 +2636,7 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
+				<iAsset>16</iAsset>
 				<iPower>10</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
@@ -2716,7 +2716,7 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
+				<iAsset>21</iAsset>
 				<iPower>12</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
@@ -2796,8 +2796,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>1</iAsset>
+			<iPower>1</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -2869,8 +2869,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>0</iAsset>
+			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -2944,8 +2944,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>0</iAsset>
+			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -3019,8 +3019,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>0</iAsset>
+			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -3094,8 +3094,8 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>40</iAsset>
-			<iPower>10</iPower>
+			<iAsset>0</iAsset>
+			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
@@ -3169,8 +3169,8 @@
 				<iHealth>0</iHealth>
 				<iHappiness>0</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>18</iPower>
+				<iAsset>28</iAsset>
+				<iPower>15</iPower>
 				<bRepeat>0</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -3250,8 +3250,8 @@
 				<iHealth>1</iHealth>
 				<iHappiness>1</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>0</iPower>
+				<iAsset>30</iAsset>
+				<iPower>15</iPower>
 				<bRepeat>1</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>
@@ -3333,8 +3333,8 @@
 				<iHealth>1</iHealth>
 				<iHappiness>1</iHappiness>
 				<iFirstFreeTechs>0</iFirstFreeTechs>
-				<iAsset>8</iAsset>
-				<iPower>0</iPower>
+				<iAsset>30</iAsset>
+				<iPower>15</iPower>
 				<bRepeat>1</bRepeat>
 				<bTrade>1</bTrade>
 				<bDisable>0</bDisable>

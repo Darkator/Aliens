@@ -4423,40 +4423,7 @@ def ALIEN(argsList):
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+
 	iUnitType = CvUtil.findInfoTypeNum(gc.getUnitInfo, gc.getNumUnitInfos(
 	), 'UNIT_ALEN_WARRIOR')  # The Units, here are 3 conquistadors, 1 explorer#
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
@@ -4467,66 +4434,8 @@ def ALIEN(argsList):
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
-	player.initUnit(iUnitType, plot.getX(), plot.getY(),
-					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	iUnitType = CvUtil.findInfoTypeNum(gc.getUnitInfo, gc.getNumUnitInfos(
+	), 'UNIT_ALIEN_WORKER')  # The Units, here are 3 conquistadors, 1 explorer#
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),

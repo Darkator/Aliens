@@ -39,5 +39,19 @@
 				
 			</StyleUnits>
 		</UnitArtStyleTypeInfo>
+		<UnitArtStyleTypeInfo>
+			<Type>UNIT_ASRSTYLE_ALIEN</Type>
+			<StyleUnits>
+				<StyleUnit>
+					<UnitType>UNIT_WW2_PROPAGANDA4</UnitType>
+					<UnitMeshGroup>
+						<EarlyArtDefineTag>ART_DEF_UNIT_WW2_PRO4ALIEN</EarlyArtDefineTag>
+						<LateArtDefineTag>ART_DEF_UNIT_WW2_PRO4ALIEN</LateArtDefineTag>
+						<MiddleArtDefineTag>ART_DEF_UNIT_WW2_PRO4ALIEN</MiddleArtDefineTag>
+					</UnitMeshGroup>
+				</StyleUnit>
+				
+			</StyleUnits>
+		</UnitArtStyleTypeInfo>
 	</UnitArtStyleTypeInfos>
 </Civ4UnitArtStyleTypeInfos>

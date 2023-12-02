@@ -6,6 +6,115 @@
 <Civ4DiplomacyInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<DiplomacyInfos>
 		<DiplomacyInfo>
+			<Type>AI_DIPLOCOMMENT_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>AI_DIPLO_PEACE_1</Text>
+						<Text>AI_DIPLO_PEACE_2</Text>
+						<Text>AI_DIPLO_PEACE_3</Text>
+						<Text>AI_DIPLO_PEACE_4</Text>
+						<Text>AI_DIPLO_PEACE_5</Text>
+						<Text>AI_DIPLO_PEACE_6</Text>
+						<Text>AI_DIPLO_PEACE_7</Text>
+						<Text>AI_DIPLO_PEACE_8</Text>
+						<Text>AI_DIPLO_PEACE_9</Text>
+						<Text>AI_DIPLO_PEACE_10</Text>
+						<Text>AI_DIPLO_PEACE_11</Text>
+						<Text>AI_DIPLO_PEACE_12</Text>
+						<Text>AI_DIPLO_PEACE_13</Text>
+						<Text>AI_DIPLO_PEACE_14</Text>
+						<Text>AI_DIPLO_PEACE_15</Text>
+						<Text>AI_DIPLO_PEACE_16</Text>
+						<Text>AI_DIPLO_PEACE_17</Text>
+						<Text>AI_DIPLO_PEACE_18</Text>
+						<Text>AI_DIPLO_PEACE_19</Text>
+						<Text>AI_DIPLO_PEACE_20</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+		<DiplomacyInfo>
+			<Type>AI_DIPLOCOMMENT_OFFER_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>AI_DIPLO_OFFER_PEACE_1</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+		<DiplomacyInfo>
+			<Type>USER_DIPLOCOMMENT_SUGGEST_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>USER_DIPLO_SUGGEST_PEACE_1</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+
+		<DiplomacyInfo>
+			<Type>USER_DIPLOCOMMENT_OFFER_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>USER_DIPLO_OFFER_PEACE_1</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+		<DiplomacyInfo>
+			<Type>AI_DIPLOCOMMENT_NO_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>AI_DIPLO_NO_PEACE_1</Text>
+						<Text>AI_DIPLO_NO_PEACE_2</Text>
+						<Text>AI_DIPLO_NO_PEACE_3</Text>
+						<Text>AI_DIPLO_NO_PEACE_4</Text>
+						<Text>AI_DIPLO_NO_PEACE_5</Text>
+						<Text>AI_DIPLO_NO_PEACE_6</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+		<DiplomacyInfo>
+			<Type>USER_DIPLOCOMMENT_PEACE</Type>
+			<Responses>
+				<Response>
+					<Civilizations/>
+					<Leaders/>
+					<Attitudes/>
+					<DiplomacyPowers/>
+					<DiplomacyText>
+						<Text>USER_DIPLO_PEACE_1</Text>
+					</DiplomacyText>
+				</Response>
+			</Responses>
+		</DiplomacyInfo>
+		<DiplomacyInfo>
 			<Type>AI_DIPLOCOMMENT_DECLARE_WAR</Type>
 			<Responses>
 				<Response>
@@ -236,60 +345,8 @@
 				
 			</Responses>
 		</DiplomacyInfo>
-		<DiplomacyInfo>
-			<Type>AI_DIPLOCOMMENT_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>AI_DIPLO_PEACE_1</Text>
-						<Text>AI_DIPLO_PEACE_2</Text>
-						<Text>AI_DIPLO_PEACE_3</Text>
-						<Text>AI_DIPLO_PEACE_4</Text>
-						<Text>AI_DIPLO_PEACE_5</Text>
-						<Text>AI_DIPLO_PEACE_6</Text>
-						<Text>AI_DIPLO_PEACE_7</Text>
-						<Text>AI_DIPLO_PEACE_8</Text>
-						<Text>AI_DIPLO_PEACE_9</Text>
-						<Text>AI_DIPLO_PEACE_10</Text>
-						<Text>AI_DIPLO_PEACE_11</Text>
-						<Text>AI_DIPLO_PEACE_12</Text>
-						<Text>AI_DIPLO_PEACE_13</Text>
-						<Text>AI_DIPLO_PEACE_14</Text>
-						<Text>AI_DIPLO_PEACE_15</Text>
-						<Text>AI_DIPLO_PEACE_16</Text>
-						<Text>AI_DIPLO_PEACE_17</Text>
-						<Text>AI_DIPLO_PEACE_18</Text>
-						<Text>AI_DIPLO_PEACE_19</Text>
-						<Text>AI_DIPLO_PEACE_20</Text>
-					</DiplomacyText>
-				</Response>
-			</Responses>
-		</DiplomacyInfo>
-		<DiplomacyInfo>
-			<Type>AI_DIPLOCOMMENT_NO_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>AI_DIPLO_NO_PEACE_1</Text>
-						<Text>AI_DIPLO_NO_PEACE_2</Text>
-						<Text>AI_DIPLO_NO_PEACE_3</Text>
-						<Text>AI_DIPLO_NO_PEACE_4</Text>
-						<Text>AI_DIPLO_NO_PEACE_5</Text>
-						<Text>AI_DIPLO_NO_PEACE_6</Text>
-					</DiplomacyText>
-				</Response>
-				
-				
-			</Responses>
-		</DiplomacyInfo>
+		
+		
 		<DiplomacyInfo>
 			<Type>AI_DIPLOCOMMENT_GREETINGS</Type>
 			<Responses>
@@ -693,20 +750,6 @@
 						<Text>AI_DIPLO_FUR_NO_DEAL_4</Text>
 						<Text>AI_DIPLO_FUR_NO_DEAL_5</Text>
 						<Text>AI_DIPLO_FUR_NO_DEAL_6</Text>
-					</DiplomacyText>
-				</Response>
-			</Responses>
-		</DiplomacyInfo>
-		<DiplomacyInfo>
-			<Type>AI_DIPLOCOMMENT_OFFER_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>AI_DIPLO_OFFER_PEACE_1</Text>
 					</DiplomacyText>
 				</Response>
 			</Responses>
@@ -1820,20 +1863,6 @@
 			</Responses>
 		</DiplomacyInfo>
 		<DiplomacyInfo>
-			<Type>USER_DIPLOCOMMENT_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>USER_DIPLO_PEACE_1</Text>
-					</DiplomacyText>
-				</Response>
-			</Responses>
-		</DiplomacyInfo>
-		<DiplomacyInfo>
 			<Type>USER_DIPLOCOMMENT_WAR</Type>
 			<Responses>
 				<Response>
@@ -1973,34 +2002,7 @@
 				</Response>
 			</Responses>
 		</DiplomacyInfo>
-		<DiplomacyInfo>
-			<Type>USER_DIPLOCOMMENT_SUGGEST_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>USER_DIPLO_SUGGEST_PEACE_1</Text>
-					</DiplomacyText>
-				</Response>
-			</Responses>
-		</DiplomacyInfo>
-		<DiplomacyInfo>
-			<Type>USER_DIPLOCOMMENT_OFFER_PEACE</Type>
-			<Responses>
-				<Response>
-					<Civilizations/>
-					<Leaders/>
-					<Attitudes/>
-					<DiplomacyPowers/>
-					<DiplomacyText>
-						<Text>USER_DIPLO_OFFER_PEACE_1</Text>
-					</DiplomacyText>
-				</Response>
-			</Responses>
-		</DiplomacyInfo>
+		
 		<DiplomacyInfo>
 			<Type>USER_DIPLOCOMMENT_CURRENT_DEALS</Type>
 			<Responses>
