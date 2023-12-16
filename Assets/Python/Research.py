@@ -77,7 +77,7 @@ def Axisspeed(iPlayer):
 						iDeclaringPlayer = iCivs
 			if iDeclaringPlayer ==-1:
 						return
-			ipenatly = gc.getTeam(iTeam).getNumMembers() * 70
+			ipenatly = gc.getTeam(iTeam).getNumMembers() * 60
 			iBonusResearch = pPlayer.getCommerceRate(CommerceTypes.COMMERCE_RESEARCH) * ipenatly/100
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).changeResearchProgress(iTech, iBonusResearch, iPlayer)
 						

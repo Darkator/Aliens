@@ -2834,6 +2834,10 @@
 					<UnitClassType>UNITCLASS_AT_FIGHTER</UnitClassType>
 					<UnitType>UNIT_JU87</UnitType>
 				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
+					<UnitType>UNIT_BF109G10</UnitType>
+				</Unit>
 			</Units>
 			<FreeUnitClasses>
 				<FreeUnitClass>
