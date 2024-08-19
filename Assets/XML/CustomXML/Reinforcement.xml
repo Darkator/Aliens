@@ -30,7 +30,7 @@
 		<Event>
 			<Owner>CIVILIZATION_WW2_IBERIA</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>15</iTurn>
+			<iTurn>263</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			<Units>
@@ -87,7 +87,7 @@
 		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>62</iTurn>
+			<iTurn>312</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -129,7 +129,7 @@
 		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>38</iTurn>
+			<iTurn>288</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -172,7 +172,7 @@
 		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>42</iTurn>
+			<iTurn>292</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -244,7 +244,7 @@
 		<Event>
 			<Owner>CIVILIZATION_WW2_VICHY</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>55</iTurn>
+			<iTurn>306</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -385,7 +385,7 @@
 		<Event>
 			<Owner>CIVILIZATION_BARBARIAN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>61</iTurn>
+			<iTurn>311</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			

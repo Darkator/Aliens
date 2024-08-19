@@ -1191,6 +1191,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_CITY_DEFENSE</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -1747,8 +1751,12 @@
 			</NoWarAttitudeProbs>
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
-					<UnitAIType>UNITAI_ICBM</UnitAIType>
+					<UnitAIType>UNITAI_DEFENSE_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
 			<ImprovementWeightModifiers>
@@ -2827,6 +2835,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_COUNTER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -4469,6 +4481,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ATTACK</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -5011,10 +5027,14 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ATTACK</UnitAIType>
-					<iWeightModifier>100</iWeightModifier>
+					<iWeightModifier>50</iWeightModifier>
 				</UnitAIWeightModifier>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -5561,10 +5581,14 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ATTACK</UnitAIType>
-					<iWeightModifier>100</iWeightModifier>
+					<iWeightModifier>50</iWeightModifier>
 				</UnitAIWeightModifier>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -6095,6 +6119,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -6629,6 +6657,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -7162,7 +7194,11 @@
 			</NoWarAttitudeProbs>
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
-					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<UnitAIType>UNITAI_ATTACK</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -7738,6 +7774,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ATTACK</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -8267,6 +8307,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -8801,6 +8845,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -10926,7 +10974,11 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
-					<iWeightModifier>200</iWeightModifier>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
+					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
 			<ImprovementWeightModifiers>
@@ -11460,6 +11512,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -12001,6 +12057,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -12538,6 +12598,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -13073,6 +13137,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -14142,6 +14210,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -16281,6 +16353,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -16815,6 +16891,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>
@@ -17885,6 +17965,10 @@
 			<UnitAIWeightModifiers>
 				<UnitAIWeightModifier>
 					<UnitAIType>UNITAI_WORKER</UnitAIType>
+					<iWeightModifier>50</iWeightModifier>
+				</UnitAIWeightModifier>
+				<UnitAIWeightModifier>
+					<UnitAIType>UNITAI_ATTACK_AIR</UnitAIType>
 					<iWeightModifier>100</iWeightModifier>
 				</UnitAIWeightModifier>
 			</UnitAIWeightModifiers>

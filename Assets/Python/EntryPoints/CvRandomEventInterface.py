@@ -4124,7 +4124,7 @@ def SpanisCvilWarTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 12):
+	if (turn == 263):
 	
 		# new code
 
@@ -4257,7 +4257,7 @@ def VichyFranceTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 55):
+	if (turn == 305):
 	
 		# new code
 
@@ -4399,7 +4399,7 @@ def ALIENTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 35):
+	if (turn == 285):
 	
 		# new code
 
