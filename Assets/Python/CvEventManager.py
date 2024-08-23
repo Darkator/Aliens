@@ -21,13 +21,16 @@ import CvWorldBuilderScreen
 import CvAdvisorUtils
 import CvTechChooser
 
+
 ## Tech Resource ##
 import Reinforcement
 ## Tech Resource ##
 ## Tech Resource ##
 # import Research
 ## Tech Resource ##
-
+## Alien ###
+import pickle
+## ALEN ###
 gc = CyGlobalContext()
 localText = CyTranslator()
 PyPlayer = PyHelpers.PyPlayer
@@ -81,7 +84,10 @@ class CvEventManager:
 		self.__LOG_WARPEACE = 0
 		self.__LOG_PUSH_MISSION = 0
 		
+       #### Aliens
 		
+	   ####
+
 		## EVENTLIST
 		self.EventHandlerMap = {
 			'mouseEvent'			: self.onMouseEvent,
@@ -343,6 +349,17 @@ class CvEventManager:
 	## Reinforcement Script ##
 		Reinforcement.loadEvents("Mods/Aliens/Assets/XML/CustomXML/Reinforcement.xml")
 ## Reinforcement Script ##
+##### Aliens Staff
+		for iPlayerLoop1 in range(gc.getMAX_PLAYERS()):#gc.getMAX_PLAYERS()):
+			if(gc.getPlayer(iPlayerLoop1).isAlive()):
+				for iPlayerLoop2 in range(gc.getMAX_PLAYERS()):#gc.getMAX_PLAYERS()):
+					if(gc.getPlayer(iPlayerLoop2).isAlive()):
+						gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setPermanentWarPeace(iPlayerLoop2, true)
+		
+		
+
+####
+                    
 		if (gc.getGame().getGameTurnYear() == gc.getDefineINT("START_YEAR") and not gc.getGame().isOption(GameOptionTypes.GAMEOPTION_ADVANCED_START)):
 			for iPlayer in range(gc.getMAX_PLAYERS()):
 				player = gc.getPlayer(iPlayer)
@@ -362,9 +379,10 @@ class CvEventManager:
 					popupInfo.setButtonPopupType(ButtonPopupTypes.BUTTONPOPUP_DETAILS)
 					popupInfo.setOption1(true)
 					popupInfo.addPopup(iPlayer)
-
+				if (player.isAlive() and player.isHuman() and rtw.HistEvents > 2 and count == 0):
+					count = 1
 		CvAdvisorUtils.resetNoLiberateCities()
-																	
+							
 	def onGameEnd(self, argsList):
 		'Called at the End of the game'
 		print("Game is ending")
@@ -1521,6 +1539,22 @@ class CvEventManager:
 		iStartYear = popupReturn.getSpinnerWidgetValue(int(0))
 		CvScreensInterface.getWorldBuilderScreen().setStartYearCB(iStartYear)
 		return
+	
 
+############################# ALIEN EVETNS #########################
 	
-	
+
+	def initValues(self):
+		for iPlayerLoop1 in range(gc.getMAX_PLAYERS()):#gc.getMAX_PLAYERS()):
+			if(gc.getPlayer(iPlayerLoop1).isAlive()):
+				for iPlayerLoop2 in range(gc.getMAX_PLAYERS()):#gc.getMAX_PLAYERS()):
+					if(gc.getPlayer(iPlayerLoop2).isAlive()):
+						gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setPermanentWarPeace(iPlayerLoop2, true)
+	def resetWarPeace(self):
+                # Set warpeace
+		for iPlayerLoop1 in range(gc.getMAX_PLAYERS()):
+			if(gc.getPlayer(iPlayerLoop1).isAlive()):
+				gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setHasTech(2, true, iPlayerLoop1, false, false)
+				for iPlayerLoop2 in range(gc.getMAX_PLAYERS()):
+					if(gc.getPlayer(iPlayerLoop2).isAlive()):
+						gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setPermanentWarPeace(iPlayerLoop2, false)

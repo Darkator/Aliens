@@ -4253,6 +4253,14 @@ def SpanisCvilWar(argsList):
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	iUnitType = CvUtil.findInfoTypeNum(
+			gc.getUnitInfo, gc.getNumUnitInfos(), 'UNIT_UNIQUE')
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 def VichyFranceTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
