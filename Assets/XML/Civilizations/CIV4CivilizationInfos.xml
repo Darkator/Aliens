@@ -237,7 +237,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			
@@ -488,6 +491,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_DEMOCRATIC</CivicType>
@@ -645,6 +652,10 @@
 				<DisableTech>
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
@@ -885,10 +896,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -909,6 +916,14 @@
 				<DisableTech>
  				<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
@@ -1352,6 +1367,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_DEMOCRATIC</CivicType>
@@ -1496,6 +1515,10 @@
  				<TechType>TECH_ALIEN</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_DEMOCRATIC</CivicType>
@@ -1588,11 +1611,11 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<TechType>TECH_MILLITARY_DOCTRINEV</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINEV</TechType>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -1611,6 +1634,10 @@
 				</DisableTech>
 				<DisableTech>
  				<TechType>TECH_ALIEN</TechType>
+ 				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+ 				<TechType>TECH_MILLITARY_DOCTRINE</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
@@ -1740,6 +1767,10 @@
 				<DisableTech>
  				<TechType>TECH_ALIEN</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
@@ -1903,10 +1934,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -1926,6 +1953,14 @@
 				</DisableTech>
 				<DisableTech>
  				<TechType>TECH_ALIEN</TechType>
+ 				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+ 				<TechType>TECH_MILLITARY_DOCTRINE</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
@@ -2071,10 +2106,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -2095,6 +2126,14 @@
 				<DisableTech>
  				<TechType>TECH_ALIEN</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
@@ -2195,10 +2234,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -2220,6 +2255,14 @@
 						<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 						<bDisableTech>1</bDisableTech>
 						</DisableTech>
+						<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_COMMUNISM</CivicType>
@@ -2449,10 +2492,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEV</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -2473,6 +2512,10 @@
 				<DisableTech>
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
@@ -2605,10 +2648,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -2630,8 +2669,14 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_FASISM_GO</CivicType>
@@ -2772,7 +2817,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -2861,10 +2909,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -2886,8 +2930,14 @@
  				<TechType>TECH_MILLITARY_DOCTRINEV</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_FASISM_GO</CivicType>
@@ -3007,7 +3057,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3128,7 +3181,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3249,7 +3305,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3370,7 +3429,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3492,7 +3554,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3613,7 +3678,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3695,7 +3763,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3777,7 +3848,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3859,7 +3933,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -3941,7 +4018,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -4023,7 +4103,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -4156,10 +4239,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -4181,8 +4260,14 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_FASISM_GO</CivicType>
@@ -4286,10 +4371,6 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
 					<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
@@ -4311,8 +4392,14 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIV</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_FASISM_GO</CivicType>
@@ -4393,7 +4480,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -4514,7 +4604,10 @@
  				<TechType>TECH_MILLITARY_DOCTRINEIII</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
-				
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 				
 			</DisableTechs>
 			<InitialCivics>
@@ -4645,6 +4738,14 @@
  				<TechType>TECH_EXP</TechType>
  				<bDisableTech>1</bDisableTech>
 				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINE</TechType>
+					<bDisableTech>1</bDisableTech>
+				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>
 				<CivicType>CIVIC_ALIEN_GO</CivicType>
@@ -4768,6 +4869,10 @@
 				<DisableTech>
  				<TechType>TECH_MILLITARY_DOCTRINE</TechType>
  				<bDisableTech>1</bDisableTech>
+				</DisableTech>
+				<DisableTech>
+					<TechType>TECH_MILLITARY_DOCTRINEII</TechType>
+					<bDisableTech>1</bDisableTech>
 				</DisableTech>
 			</DisableTechs>
 			<InitialCivics>

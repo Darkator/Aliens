@@ -6854,6 +6854,41 @@
 			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
 		</UnitArtInfo>
 		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_PANZERJAGER4</Type>
+			<Button>,Art/Interface/Buttons/Units/Panzer.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,3,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Jagdpanzer_IV/tank.nif</NIF>
+			<KFM>Art/Units/tank/tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Jagdpanzer_IV/tank.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MATILDA2</Type>
 			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
 			<fScale>0.48</fScale>

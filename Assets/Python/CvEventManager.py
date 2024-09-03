@@ -355,10 +355,17 @@ class CvEventManager:
 				for iPlayerLoop2 in range(gc.getMAX_PLAYERS()):#gc.getMAX_PLAYERS()):
 					if(gc.getPlayer(iPlayerLoop2).isAlive()):
 						gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setPermanentWarPeace(iPlayerLoop2, true)
-		
-		
 
-####
+############# TURKEYINcomeper unit
+#		ptPlayer = gc.getPlayer(iCivs)
+#		iturke = gc.getInfoTypeForString("CIVILIZATION_OTTOMAN")
+#		for iCivs in range(iMaxCiv):
+#			if ptPlayer.getCivilizationType ()==iturke:
+#				iCtukre = iCivs
+#		self.setExtraUnitCost(gc.pPlayer(iCtukre).calculateUnitCost() / 2 )
+#		gc.getPlayer(iCtukre).changeGold( -self.getExtraUnitCost() )
+#		self.setExtraUnitCost(gc.pPlayer(iCtukre).calculateUnitCost() * 10 )
+####	
                     
 		if (gc.getGame().getGameTurnYear() == gc.getDefineINT("START_YEAR") and not gc.getGame().isOption(GameOptionTypes.GAMEOPTION_ADVANCED_START)):
 			for iPlayer in range(gc.getMAX_PLAYERS()):
@@ -398,9 +405,6 @@ class CvEventManager:
 			self.pAUSID = 15
 			self.pCanadaID = 19
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
-			self.pEnglandTeam.assignVassal(gc.getPlayer(self.pIndiaID).getTeam(), True)
-			self.pEnglandTeam.assignVassal(gc.getPlayer(self.pAUSID).getTeam(), True)
-			self.pEnglandTeam.assignVassal(gc.getPlayer(self.pCanadaID).getTeam(), True)
 		
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pIndiaID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pAUSID).getTeam())
@@ -1558,3 +1562,12 @@ class CvEventManager:
 				for iPlayerLoop2 in range(gc.getMAX_PLAYERS()):
 					if(gc.getPlayer(iPlayerLoop2).isAlive()):
 						gc.getTeam(gc.getPlayer(iPlayerLoop1).getTeam()).setPermanentWarPeace(iPlayerLoop2, false)
+	
+#	def setExtraUnitCost( self, iNewValue ):
+#		scriptDict = pickle.loads( gc.getPlayer(0).getScriptData() )
+#		scriptDict['iExtraUnitCost'] = iNewValue
+#		gc.getPlayer(0).setScriptData( pickle.dumps(scriptDict) )
+#
+#	def getExtraUnitCost( self ):
+#		scriptDict = pickle.loads( gc.getPlayer(0).getScriptData() )
+#		return scriptDict['iExtraUnitCost']

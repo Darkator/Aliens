@@ -2778,7 +2778,7 @@
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_MILLITARY_DOCTRINE</Type>
-			<Description>Inter War Doctrine</Description>
+			<Description>Democratic Law</Description>
 			<Civilopedia>TXT_KEY_TECH_INDUSTRIALISM_PEDIA</Civilopedia>
 			<Help/>
 			<Strategy>TXT_KEY_TECH_INDUSTRIALISM_STRATEGY</Strategy>
@@ -2851,7 +2851,7 @@
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_MILLITARY_DOCTRINEII</Type>
-			<Description>Early WWII Doctrine</Description>
+			<Description>Neutal WWII Doctrine</Description>
 			<Civilopedia>TXT_KEY_TECH_INDUSTRIALISM_PEDIA</Civilopedia>
 			<Help/>
 			<Strategy>TXT_KEY_TECH_INDUSTRIALISM_STRATEGY</Strategy>
@@ -2914,7 +2914,7 @@
 				</Flavor>
 			</Flavors>
 			<OrPreReqs>
-				<PrereqTech>TECH_MILLITARY_DOCTRINE</PrereqTech>
+				<PrereqTech/>
 				
 				</OrPreReqs>
 				
