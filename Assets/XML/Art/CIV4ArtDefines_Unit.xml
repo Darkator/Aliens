@@ -6150,9 +6150,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/BT-7 V.2/BT-7.nif</NIF>
-			<KFM>Art/Units/BT-7 V.2/BT-7.kfm</KFM>
-			<SHADERNIF>Art/Units/BT-7 V.2/BT-7.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/BT-7/BT-7.nif</NIF>
+			<KFM>Art/Units/USSR/BT-7/BT-7.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/BT-7/BT-7.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6185,9 +6185,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/IS-1 v.2/IS-2.nif</NIF>
-			<KFM>Art/Units/IS-1 v.2/IS-2.kfm</KFM>
-			<SHADERNIF>Art/Units/IS-1 v.2/IS-2.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/IS-2/IS-2.nif</NIF>
+			<KFM>Art/Units/USSR/IS-2/IS-2.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/IS-2/IS-2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6215,14 +6215,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_T34</Type>
-			<Button>,Art/Units/t-34/tank_button_russia.dds</Button>
+			<Button>,Art/Units/USSR/t-34/tank_button_russia.dds</Button>
 			<fScale>0.48</fScale>
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/t-34/t34-85.nif</NIF>
-			<KFM>Art/Units/t-34/t34-85.kfm</KFM>
-			<SHADERNIF>Art/Units/t-34/t34-85.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/t-34/t34-85.nif</NIF>
+			<KFM>Art/Units/USSR/t-34/t34-85.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/t-34/t34-85.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6290,9 +6290,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/su-85/SU-85.nif</NIF>
-			<KFM>Art/Units/su-85/SU-85.kfm</KFM>
-			<SHADERNIF>Art/Units/su-85/SU-85.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/su-85/SU-85.nif</NIF>
+			<KFM>Art/Units/USSR/su-85/SU-85.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/su-85/SU-85.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6325,9 +6325,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/32385-kv1/KV_1_256/KV-1.nif</NIF>
-			<KFM>Art/Units/32385-kv1/KV_1_256/KV-1.kfm</KFM>
-			<SHADERNIF>Art/Units/32385-kv1/KV_1_256/KV-1.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/0kv1/KV_1_512/KV-1.nif</NIF>
+			<KFM>Art/Units/USSR/0kv1/KV_1_512/KV-1.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/0kv1/KV_1_512/KV-1.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6360,9 +6360,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/SU_76/SU-76/SU76.nif</NIF>
-			<KFM>Art/Units/SU_76/SU-76/SU76.kfm</KFM>
-			<SHADERNIF>Art/Units/SU_76/SU-76/SU76.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/SU_76/SU-76/SU76.nif</NIF>
+			<KFM>Art/Units/USSR/SU_76/SU-76/SU76.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/SU_76/SU-76/SU76.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/MechInfantryShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6393,9 +6393,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/T_26/T-26.nif</NIF>
-			<KFM>Art/Units/T_26/T-26.kfm</KFM>
-			<SHADERNIF>Art/Units/T_26/T-26.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/T_26/T-26.nif</NIF>
+			<KFM>Art/Units/USSR/T_26/T-26.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/T_26/T-26.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6498,9 +6498,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/panzerII/panzer2.nif</NIF>
-			<KFM>Art/Units/panzerII/panzer2.kfm</KFM>
-			<SHADERNIF>Art/Units/panzerII/panzer2.nif</SHADERNIF>
+			<NIF>Art/Units/German/panzerII/panzer2.nif</NIF>
+			<KFM>Art/Units/German/panzerII/panzer2.kfm</KFM>
+			<SHADERNIF>Art/Units/German/panzerII/panzer2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6533,9 +6533,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/66228-panzer_iii/Panzer_III.nif</NIF>
-			<KFM>Art/Units/66228-panzer_iii/Panzer_III.kfm</KFM>
-			<SHADERNIF>Art/Units/66228-panzer_iii/Panzer_III.nif</SHADERNIF>
+			<NIF>Art/Units/German/panzer_iii/Panzer_III.nif</NIF>
+			<KFM>Art/Units/German/panzer_iii/Panzer_III.kfm</KFM>
+			<SHADERNIF>Art/Units/German/panzer_iii/Panzer_III.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6568,9 +6568,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tank_PzKpfwIVG/PzKpfwIVAusfG.nif</NIF>
-			<KFM>Art/Units/Tank_PzKpfwIVG/PzKpfwIVAusfF.kfm</KFM>
-			<SHADERNIF>Art/Units/Tank_PzKpfwIVG/PzKpfwIVAusfG.nif</SHADERNIF>
+			<NIF>Art/Units/German/PanzerIV/PzKpfwIVAusfG.nif</NIF>
+			<KFM>Art/Units/German/PanzerIV/PzKpfwIVAusfF.kfm</KFM>
+			<SHADERNIF>Art/Units/German/PanzerIV/PzKpfwIVAusfG.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6603,9 +6603,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/panzerVI/PzKpfwVI.nif</NIF>
-			<KFM>Art/Units/panzerVI/PzKpfwVI.kfm</KFM>
-			<SHADERNIF>Art/Units/panzerVI/PzKpfwVI.nif</SHADERNIF>
+			<NIF>Art/Units/German/panzerVI/PzKpfwVI.nif</NIF>
+			<KFM>Art/Units/German/panzerVI/PzKpfwVI.kfm</KFM>
+			<SHADERNIF>Art/Units/German/panzerVI/PzKpfwVI.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6755,9 +6755,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ferdinand/Panzer.nif</NIF>
+			<NIF>Art/Units/German/ferdinand/Panzer.nif</NIF>
 			<KFM>Art/Units/Unique/German/Panzer/Panzer.kfm</KFM>
-			<SHADERNIF>Art/Units/ferdinand/Panzer.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/ferdinand/Panzer.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/PanzerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6790,9 +6790,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/StugG/Sturmgeschutz_III_Ausf_E.nif</NIF>
-			<KFM>Art/Units/StugG/Sturmgeschutz_III_Ausf_E.kfm</KFM>
-			<SHADERNIF>Art/Units/StugG/Sturmgeschutz_III_Ausf_E.nif</SHADERNIF>
+			<NIF>Art/Units/German/StugG/Sturmgeschutz_III_Ausf_E.nif</NIF>
+			<KFM>Art/Units/German/StugG/Sturmgeschutz_III_Ausf_E.kfm</KFM>
+			<SHADERNIF>Art/Units/German/StugG/Sturmgeschutz_III_Ausf_E.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6825,9 +6825,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Jagdpanther/jpanther.nif</NIF>
-			<KFM>Art/Units/Jagdpanther/jpanther.kfm</KFM>
-			<SHADERNIF>Art/Units/Jagdpanther/jpanther.nif</SHADERNIF>
+			<NIF>Art/Units/German/Jagdpanther/jpanther.nif</NIF>
+			<KFM>Art/Units/German/Jagdpanther/jpanther.kfm</KFM>
+			<SHADERNIF>Art/Units/German/Jagdpanther/jpanther.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/PanzerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6860,9 +6860,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Jagdpanzer_IV/tank.nif</NIF>
+			<NIF>Art/Units/German/Jagdpanzer_IV/tank.nif</NIF>
 			<KFM>Art/Units/tank/tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Jagdpanzer_IV/tank.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Jagdpanzer_IV/tank.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6895,9 +6895,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Matilda_II/Matilda_II.nif</NIF>
+			<NIF>Art/Units/UK/Matilda_II/Matilda_II.nif</NIF>
 			<KFM>Art/Units/tank/tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Matilda_II/Matilda_II.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Matilda_II/Matilda_II.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6930,9 +6930,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Covenanter/convenater.nif</NIF>
+			<NIF>Art/Units/UK/Covenanter/convenater.nif</NIF>
 			<KFM>Art/Units/tank/tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Covenanter/convenater.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Covenanter/convenater.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -6965,9 +6965,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Centaur/Centaur.nif</NIF>
+			<NIF>Art/Units/UK/Centaur/Centaur.nif</NIF>
 			<KFM>Art/Units/tank/tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Centaur/Centaur.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Centaur/Centaur.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7000,9 +7000,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/churchill/churchill.nif</NIF>
-			<KFM>Art/Units/churchill/Churchill.kfm</KFM>
-			<SHADERNIF>Art/Units/churchill/churchill.nif</SHADERNIF>
+			<NIF>Art/Units/UK/churchill/churchill.nif</NIF>
+			<KFM>Art/Units/UK/churchill/Churchill.kfm</KFM>
+			<SHADERNIF>Art/Units/UK/churchill/churchill.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7035,9 +7035,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Archer/Archer.nif</NIF>
+			<NIF>Art/Units/UK/Archer/Archer.nif</NIF>
 			<KFM>Art/Units/tank/tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Archer/Archer.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Archer/Archer.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/MechInfantryShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7068,9 +7068,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Achilles/Achilles.nif</NIF>
+			<NIF>Art/Units/UK/Achilles/Achilles.nif</NIF>
 			<KFM>Art/Units/Tank/Tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Achilles/Achilles.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Achilles/Achilles.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7103,9 +7103,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Comet/Comet.nif</NIF>
+			<NIF>Art/Units/UK/Comet/Comet.nif</NIF>
 			<KFM>Art/Units/Tank/Tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Comet/Comet.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Comet/Comet.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7138,9 +7138,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/M3A1/M3A1 Animated.nif</NIF>
-			<KFM>Art/Units/M3A1/M3A1 Animated.kfm</KFM>
-			<SHADERNIF>Art/Units/M3A1/M3A1 Animated.nif</SHADERNIF>
+			<NIF>Art/Units/USA/M3A1/M3A1 Animated.nif</NIF>
+			<KFM>Art/Units/USA/M3A1/M3A1 Animated.kfm</KFM>
+			<SHADERNIF>Art/Units/USA/M3A1/M3A1 Animated.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7173,9 +7173,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/M10 Wolverine/tank.nif</NIF>
+			<NIF>Art/Units/USA/M10 Wolverine/tank.nif</NIF>
 			<KFM>Art/Units/Tank/Tank.kfm</KFM>
-			<SHADERNIF>Art/Units/M10 Wolverine/tank.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/M10 Wolverine/tank.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7208,9 +7208,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Tank M24/M24.nif</NIF>
-			<KFM>Art/Units/Tank M24/M4A3.kfm</KFM>
-			<SHADERNIF>Art/Units/Tank M24/M24.nif</SHADERNIF>
+			<NIF>Art/Units/USA/Tank M24/M24.nif</NIF>
+			<KFM>Art/Units/USA/Tank M24/M4A3.kfm</KFM>
+			<SHADERNIF>Art/Units/USA/Tank M24/M24.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7243,9 +7243,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/M26/M26.nif</NIF>
-			<KFM>Art/Units/M26/M26.kfm</KFM>
-			<SHADERNIF>Art/Units/M26/M26.nif</SHADERNIF>
+			<NIF>Art/Units/USA/M26/M26.nif</NIF>
+			<KFM>Art/Units/USA/M26/M26.kfm</KFM>
+			<SHADERNIF>Art/Units/USA/M26/M26.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7278,9 +7278,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Infantry_German/infantry.nif</NIF>
+			<NIF>Art/Units/German/Infantry_German/infantry.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Infantry_German/infantry.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Infantry_German/infantry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7302,9 +7302,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Katyusha/Katyusha.nif</NIF>
-			<KFM>Art/Units/Katyusha/MobileSam.kfm</KFM>
-			<SHADERNIF>Art/Units/Katyusha/Katyusha.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/Katyusha/Katyusha.nif</NIF>
+			<KFM>Art/Units/USSR/Katyusha/MobileSam.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/Katyusha/Katyusha.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7337,9 +7337,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Eng_Inf/ww1_soldier.nif</NIF>
+			<NIF>Art/Units/UK/Eng_Inf/ww1_soldier.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Eng_Inf/ww1_soldier_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Eng_Inf/ww1_soldier_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7361,9 +7361,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Ita_Inf/Infantry.nif</NIF>
+			<NIF>Art/Units/Italy/Ita_Inf/Infantry.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Ita_Inf/Infantry_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/Ita_Inf/Infantry_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7385,9 +7385,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/US_Inf/marines.nif</NIF>
+			<NIF>Art/Units/USA/US_Inf/marines.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/US_Inf/marines.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/US_Inf/marines.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7409,9 +7409,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Ger_Inf/marines.nif</NIF>
+			<NIF>Art/Units/German/Ger_Inf/marines.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/Ger_Inf/marines.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Ger_Inf/marines.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7491,9 +7491,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Infantry_Russia/infantry.nif</NIF>
+			<NIF>Art/Units/USSR/Infantry_Russia/infantry.nif</NIF>
 			<KFM>Art/Units/Infantry/Infantry.kfm</KFM>
-			<SHADERNIF>Art/Units/Infantry_Russia/infantry.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USSR/Infantry_Russia/infantry.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7550,9 +7550,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/germr/germr.nif</NIF>
+			<NIF>Art/Units/German/germr/germr.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/germr/germr.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/germr/germr.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -7574,9 +7574,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/US_Inf/marines.nif</NIF>
+			<NIF>Art/Units/USA/US_Inf/marines.nif</NIF>
 			<KFM>Art/Units/Marine/Marines.kfm</KFM>
-			<SHADERNIF>Art/Units/US_Inf/marines.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/US_Inf/marines.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/UnitShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8057,9 +8057,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/46451-tribal_dd/HMS_Cossack.nif</NIF>
+			<NIF>Art/Units/tribal_dd/HMS_Cossack.nif</NIF>
 			<KFM>Art/Units/Destroyer/Destroyer.kfm</KFM>
-			<SHADERNIF>Art/Units/46451-tribal_dd/HMS_Cossack.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/tribal_dd/HMS_Cossack.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8174,9 +8174,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/50405-marconi/Marconi.nif</NIF>
+			<NIF>Art/Units/marconi/Marconi.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/50405-marconi/Marconi.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/marconi/Marconi.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8204,9 +8204,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/8823-redoutable_class/red.nif</NIF>
+			<NIF>Art/Units/redoutable_class/red.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/8823-redoutable_class/red.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/redoutable_class/red.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8234,9 +8234,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/79906-VIIC_Type_UBoat/VIIC_Type_UBoat.nif</NIF>
+			<NIF>Art/Units/German/VIIC_Type_UBoat/VIIC_Type_UBoat.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/79906-VIIC_Type_UBoat/VIIC_Type_UBoat.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/VIIC_Type_UBoat/VIIC_Type_UBoat.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8265,7 +8265,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Art/Units/DeRuyter/DeRuyter.nif</NIF>
-			<KFM>Art/Units/630-hms_sussex/HMS_Sussex.kfm</KFM>
+			<KFM>Art/Units/hms_sussex/HMS_Sussex.kfm</KFM>
 			<SHADERNIF>Art/Units/DeRuyter/DeRuyter.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
@@ -8304,7 +8304,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Art/Units/TreKronor/TreKronor.nif</NIF>
-			<KFM>Art/Units/630-hms_sussex/HMS_Sussex.kfm</KFM>
+			<KFM>Art/Units/hms_sussex/HMS_Sussex.kfm</KFM>
 			<SHADERNIF>Art/Units/TreKronor/TreKronor.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
@@ -8376,14 +8376,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_GRAF_SPEE</Type>
-			<Button>,Art/Units/80131-grafspee/PocketBattleship/GrafSpee_Button.dds,Art/Units/80131-grafspee/PocketBattleship/GrafSpee_Button.dds,0,0</Button>
+			<Button>,Art/Units/German/grafspee/PocketBattleship/GrafSpee_Button.dds,Art/Units/German/grafspee/PocketBattleship/GrafSpee_Button.dds,0,0</Button>
 			<fScale>0.7</fScale>
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/80131-grafspee/PocketBattleship/Graf_Spee.nif</NIF>
-			<KFM>Art/Units/80131-grafspee/PocketBattleship/Graf_spee.kfm</KFM>
-			<SHADERNIF>Art/Units/80131-grafspee/PocketBattleship/Graf_Spee.nif</SHADERNIF>
+			<NIF>Art/Units/German/grafspee/PocketBattleship/Graf_Spee.nif</NIF>
+			<KFM>Art/Units/German/grafspee/PocketBattleship/Graf_spee.kfm</KFM>
+			<SHADERNIF>Art/Units/German/grafspee/PocketBattleship/Graf_Spee.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8420,9 +8420,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/630-hms_sussex/HMS_Sussex.nif</NIF>
-			<KFM>Art/Units/630-hms_sussex/HMS_Sussex.kfm</KFM>
-			<SHADERNIF>Art/Units/630-hms_sussex/HMS_Sussex.nif</SHADERNIF>
+			<NIF>Art/Units/hms_sussex/HMS_Sussex.nif</NIF>
+			<KFM>Art/Units/hms_sussex/HMS_Sussex.kfm</KFM>
+			<SHADERNIF>Art/Units/hms_sussex/HMS_Sussex.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8459,9 +8459,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/belfast/Belfast.nif</NIF>
+			<NIF>Art/Units/UK/belfast/Belfast.nif</NIF>
 			<KFM>Art/Units/Destroyer/Destroyer.kfm</KFM>
-			<SHADERNIF>Art/Units/belfast/Belfast.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/belfast/Belfast.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8498,9 +8498,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/gearing_class/Gearing_class_1946/gearing_class_dd.nif</NIF>
+			<NIF>Art/Units/German/gearing_class/Gearing_class_1946/gearing_class_dd.nif</NIF>
 			<KFM>Art/Units/Destroyer/Destroyer.kfm</KFM>
-			<SHADERNIF>Art/Units/gearing_class/Gearing_class_1946/gearing_class_dd.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/gearing_class/Gearing_class_1946/gearing_class_dd.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8538,7 +8538,7 @@
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
 			<NIF>Art/Units/Zara/Zara.nif</NIF>
-			<KFM>Art/Units/630-hms_sussex/HMS_Sussex.kfm</KFM>
+			<KFM>Art/Units/hms_sussex/HMS_Sussex.kfm</KFM>
 			<SHADERNIF>Art/Units/Zara/Zara.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
@@ -8636,9 +8636,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/99214-ki61/Ki61.nif</NIF>
+			<NIF>Art/Units/ki61/Ki61.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/99214-ki61/Ki61.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/ki61/Ki61.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8756,9 +8756,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/MeBf109/bf109gryanimate.nif</NIF>
+			<NIF>Art/Units/German/MeBf109/bf109gryanimate.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/MeBf109/bf109gryanimate.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/MeBf109/bf109gryanimate.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8786,9 +8786,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/FW190/fw190a.nif</NIF>
+			<NIF>Art/Units/German/FW190/fw190a.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/FW190/fw190a.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/FW190/fw190a.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8816,9 +8816,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Me110/destroyer/Me110.nif</NIF>
-			<KFM>Art/Units/Me110/destroyer/Mosquito.kfm</KFM>
-			<SHADERNIF>Art/Units/Me110/destroyer/Me110.nif</SHADERNIF>
+			<NIF>Art/Units/German/Me110/destroyer/Me110.nif</NIF>
+			<KFM>Art/Units/German/Me110/destroyer/Mosquito.kfm</KFM>
+			<SHADERNIF>Art/Units/German/Me110/destroyer/Me110.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8846,9 +8846,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/do17/do17.nif</NIF>
+			<NIF>Art/Units/German/do17/do17.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/do17/do17.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/do17/do17.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8876,9 +8876,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ju_88/ju-88.nif</NIF>
+			<NIF>Art/Units/German/ju_88/ju-88.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/ju_88/ju-88.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/ju_88/ju-88.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8906,9 +8906,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/he111/he111.nif</NIF>
+			<NIF>Art/Units/German/he111/he111.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/he111/he111.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/he111/he111.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8936,9 +8936,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/S.25 Sunderland/S25.nif</NIF>
+			<NIF>Art/Units/S25Sunderland/S25.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/S.25 Sunderland/S25.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/S25Sunderland/S25.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8966,9 +8966,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Ju87/Ju87.nif</NIF>
+			<NIF>Art/Units/German/Ju87/Ju87.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Ju87/Ju87.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Ju87/Ju87.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -8996,9 +8996,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Hurricane/hurricane2.nif</NIF>
+			<NIF>Art/Units/UK/Hurricane/hurricane2.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Hurricane/hurricane2.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Hurricane/hurricane2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9026,9 +9026,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/supermarine/Spitfire/spitfire.nif</NIF>
+			<NIF>Art/Units/UK/supermarine/Spitfire/spitfire.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/supermarine/Spitfire/spitfire.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/supermarine/Spitfire/spitfire.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9056,9 +9056,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Mosquito_with_own_animation/Mosquito.nif</NIF>
-			<KFM>Art/Units/Mosquito_with_own_animation/Mosquito.kfm</KFM>
-			<SHADERNIF>Art/Units/Mosquito_with_own_animation/Mosquito.nif</SHADERNIF>
+			<NIF>Art/Units/UK/Mosquito_with_own_animation/Mosquito.nif</NIF>
+			<KFM>Art/Units/UK/Mosquito_with_own_animation/Mosquito.kfm</KFM>
+			<SHADERNIF>Art/Units/UK/Mosquito_with_own_animation/Mosquito.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9086,9 +9086,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Beaufighter/Beaufighter.nif</NIF>
+			<NIF>Art/Units/UK/Beaufighter/Beaufighter.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Beaufighter/Beaufighter.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Beaufighter/Beaufighter.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9116,9 +9116,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Wellington/Wellington.nif</NIF>
+			<NIF>Art/Units/UK/Wellington/Wellington.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Wellington/Wellington.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Wellington/Wellington.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9146,9 +9146,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/bristol_blenheim/bomber_fx.nif</NIF>
+			<NIF>Art/Units/UK/bristol_blenheim/bomber_fx.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/bristol_blenheim/bomber_fx.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/bristol_blenheim/bomber_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9176,9 +9176,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/fairyswordfish/Fairy_Swordfish_Pilot/Swordfish.nif</NIF>
-			<KFM>Art/Units/fairyswordfish/Fairy Swordfish/TBF_Avenger.kfm</KFM>
-			<SHADERNIF>Art/Units/fairyswordfish/Fairy_Swordfish_Pilot/Swordfish.nif</SHADERNIF>
+			<NIF>Art/Units/UK/fairyswordfish/Fairy_Swordfish_Pilot/Swordfish.nif</NIF>
+			<KFM>Art/Units/UK/fairyswordfish/Fairy Swordfish/TBF_Avenger.kfm</KFM>
+			<SHADERNIF>Art/Units/UK/fairyswordfish/Fairy_Swordfish_Pilot/Swordfish.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9206,9 +9206,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/FW190D9/fw190d9f.nif</NIF>
+			<NIF>Art/Units/German/FW190D9/fw190d9f.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/FW190D9/fw190d9f.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/FW190D9/fw190d9f.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9236,9 +9236,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/hawker_typhoon/hawker_typhoon.nif</NIF>
+			<NIF>Art/Units/UK/hawker_typhoon/hawker_typhoon.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/hawker_typhoon/hawker_typhoon.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/hawker_typhoon/hawker_typhoon.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9296,9 +9296,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Me163/me163.nif</NIF>
+			<NIF>Art/Units/German/Me163/me163.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Me163/me163.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Me163/me163.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9326,9 +9326,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Halifax/Halifax.nif</NIF>
+			<NIF>Art/Units/UK/Halifax/Halifax.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Halifax/Halifax.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Halifax/Halifax.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9356,9 +9356,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/p39/p39.nif</NIF>
+			<NIF>Art/Units/USA/p39new/p39cobraUS.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/p39/p39.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/p39new/p39cobraUS.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9386,9 +9386,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/P40/p40usa.nif</NIF>
+			<NIF>Art/Units/USA/P40/p40usa.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/P40/p40usa.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/P40/p40usa.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9416,9 +9416,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/a26invader/a26.nif</NIF>
+			<NIF>Art/Units/USA/a26invader/a26.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/a26invader/a26.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/a26invader/a26.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9446,9 +9446,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/B-25/B25Mitchell/B25Mitchell/B25Mitchell.nif</NIF>
+			<NIF>Art/Units/USA/B-25/B25Mitchell/B25/B25Mitchell.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/B-25/B25Mitchell/B25Mitchell/B25Mitchell.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/B-25/B25Mitchell/B25/B25Mitchell.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9476,9 +9476,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/B29/B-29.nif</NIF>
+			<NIF>Art/Units/USA/B29/B-29.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/B29/B-29_FX.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/B29/B-29_FX.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9506,9 +9506,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/B17/b17gr.nif</NIF>
+			<NIF>Art/Units/USA/B17/b17gr.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/B17/b17gr.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/B17/b17gr.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9536,9 +9536,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/B24/B24.nif</NIF>
+			<NIF>Art/Units/USA/B24/B24.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/B24/B24.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/B24/B24.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9596,9 +9596,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/P51/p51mustang.nif</NIF>
+			<NIF>Art/Units/USA/P51/p51mustang.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/P51/p51mustang.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/P51/p51mustang.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9626,9 +9626,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/p-47/p47.nif</NIF>
+			<NIF>Art/Units/USA/p-47/p47.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/p-47/p47.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/p-47/p47.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9651,14 +9651,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_AVENGER</Type>
-			<Button>,Art/Units/86409-TBF_Avenger/Cameo2.dds,Art/Units/86409-TBF_Avenger/Cameo2.dds,0,0</Button>
+			<Button>,Art/Units/USA/TBF_Avenger/Cameo2.dds,Art/Units/USA/TBF_Avenger/Cameo2.dds,0,0</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/86409-TBF_Avenger/TBF_Avenger/TBF_Avenger.nif</NIF>
-			<KFM>Art/Units/86409-TBF_Avenger/TBF_Avenger/TBF_Avenger.kfm</KFM>
-			<SHADERNIF>Art/Units/86409-TBF_Avenger/TBF_Avenger/TBF_Avenger.nif</SHADERNIF>
+			<NIF>Art/Units/USA/TBF_Avenger/TBF_Avenger/TBF_Avenger.nif</NIF>
+			<KFM>Art/Units/USA/TBF_Avenger/TBF_Avenger/TBF_Avenger.kfm</KFM>
+			<SHADERNIF>Art/Units/USA/TBF_Avenger/TBF_Avenger/TBF_Avenger.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9686,9 +9686,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Corsair/corsair.nif</NIF>
+			<NIF>Art/Units/USA/Corsair/corsair.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Corsair/corsair.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/Corsair/corsair.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9716,9 +9716,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/F6F/F6F.nif</NIF>
+			<NIF>Art/Units/USA/F6F/F6F.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/F6F/F6F.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/F6F/F6F.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9741,14 +9741,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_CATALINA</Type>
-			<Button>,Art/Units/Catalina/Button.dds,Art/Units/Catalina/Button.dds,0,0</Button>
+			<Button>,Art/Units/USA/Catalina/Button.dds,Art/Units/USA/Catalina/Button.dds,0,0</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Catalina/Catalina.nif</NIF>
+			<NIF>Art/Units/USA/Catalina/Catalina.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Catalina/Catalina.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/Catalina/Catalina.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9776,9 +9776,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Fiat42/fiat42.nif</NIF>
+			<NIF>Art/Units/Italy/Fiat42/fiat42.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Fiat42/fiat42.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/Fiat42/fiat42.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9801,14 +9801,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MC200</Type>
-			<Button>,Art/Units/MC200/MC200_button.dds,Art/Units/MC200/MC200_button.dds,0,0</Button>
+			<Button>,Art/Units/Italy/MC200/MC200_button.dds,Art/Units/Italy/MC200/MC200_button.dds,0,0</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/MC200/a6mwhite.nif</NIF>
+			<NIF>Art/Units/Italy/MC200/a6mwhite.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/MC200/a6mwhite.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/MC200/a6mwhite.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9831,14 +9831,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_MC202</Type>
-			<Button>,Art/Units/MC202/MC202_button.dds,Art/Units/MC202/MC202_button.dds,0,0</Button>
+			<Button>,Art/Units/Italy/MC202/MC202_button.dds,Art/Units/Italy/MC202/MC202_button.dds,0,0</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/MC202/folgore.nif</NIF>
+			<NIF>Art/Units/Italy/MC202/folgore.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/MC202/folgore.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/MC202/folgore.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9861,14 +9861,14 @@
 		</UnitArtInfo>
 		<UnitArtInfo>
 			<Type>ART_DEF_UNIT_FIAT55</Type>
-			<Button>,Art/Units/G55/G55_btn.dds,Art/Units/G55/G55_btn.dds,0,0</Button>
+			<Button>,Art/Units/Italy/G55/G55_btn.dds,Art/Units/Italy/G55/G55_btn.dds,0,0</Button>
 			<fScale>0.5</fScale>
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Fiat55/G55.nif</NIF>
+			<NIF>Art/Units/Italy/Fiat55/G55.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/Fiat55/G55.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/Fiat55/G55.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9896,9 +9896,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/SM79/savoi79.nif</NIF>
+			<NIF>Art/Units/Italy/SM79/savoi79.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/SM79/savoi79.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/SM79/savoi79.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9926,9 +9926,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/savoia_marchetti_sm_84/Savoia_Marchetti_SM_84.nif</NIF>
+			<NIF>Art/Units/Italy/savoia_marchetti_sm_84/Savoia_Marchetti_SM_84.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/savoia_marchetti_sm_84/Savoia_Marchetti_SM_84.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/savoia_marchetti_sm_84/Savoia_Marchetti_SM_84.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9956,9 +9956,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/p-38/lightning.nif</NIF>
+			<NIF>Art/Units/USA/p-38/lightning.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/p-38/lightning.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/p-38/lightning.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -9986,9 +9986,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/pzl_p_23_karas/karas.nif</NIF>
+			<NIF>Art/Units/Poland/pzl_p_23_karas/karas.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/pzl_p_23_karas/karas.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Poland/pzl_p_23_karas/karas.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10016,9 +10016,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/rtw_impfighter/PZL_P_24.nif</NIF>
+			<NIF>Art/Units/Poland/rtw_impfighter/PZL_P_24.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/rtw_impfighter/PZL_P_24.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Poland/rtw_impfighter/PZL_P_24.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10046,9 +10046,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/rtw_bomber/pzl_37.nif</NIF>
+			<NIF>Art/Units/Poland/rtw_bomber/pzl_37.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/rtw_bomber/pzl_37.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Poland/rtw_bomber/pzl_37.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10076,9 +10076,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/netherland/FokkerDXXI/FokkerDXXI.nif</NIF>
+			<NIF>Art/Units/Holand/netherland/FokkerDXXI/FokkerDXXI.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/netherland/FokkerDXXI/FokkerDXXI.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Holand/netherland/FokkerDXXI/FokkerDXXI.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10106,9 +10106,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/netherland/FokkerGI/FokkerG1.nif</NIF>
+			<NIF>Art/Units/Holand/netherland/FokkerGI/FokkerG1.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/netherland/FokkerGI/FokkerG1.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Holand/netherland/FokkerGI/FokkerG1.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10136,9 +10136,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/netherland/FokkerTV/FokkerTV.nif</NIF>
+			<NIF>Art/Units/Holand/netherland/FokkerTV/FokkerTV.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/netherland/FokkerTV/FokkerTV.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Holand/netherland/FokkerTV/FokkerTV.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10166,9 +10166,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/french/D520/Dewoitine_D_520.nif</NIF>
+			<NIF>Art/Units/France/french/D520/Dewoitine_D_520.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/french/D520/Dewoitine_D_520.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/french/D520/Dewoitine_D_520.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10196,9 +10196,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/french/M406/Morane_Saulnier_406.nif</NIF>
+			<NIF>Art/Units/France/french/M406/Morane_Saulnier_406.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/french/M406/Morane_Saulnier_406.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/french/M406/Morane_Saulnier_406.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10226,9 +10226,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/french/Amiot_143/Amiot143.nif</NIF>
+			<NIF>Art/Units/France/french/Amiot_143/Amiot143.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/french/Amiot_143/Amiot143.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/french/Amiot_143/Amiot143.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10256,9 +10256,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/french/Amiot_350/Amiot350.nif</NIF>
+			<NIF>Art/Units/France/french/Amiot_350/Amiot350.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/french/Amiot_350/Amiot350.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/french/Amiot_350/Amiot350.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10286,9 +10286,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/rtw_lighttank/7TP.nif</NIF>
-			<KFM>Art/Units/rtw_lighttank/7TP.kfm</KFM>
-			<SHADERNIF>Art/Units/rtw_lighttank/7TP.nif</SHADERNIF>
+			<NIF>Art/Units/Poland/rtw_lighttank/7TP.nif</NIF>
+			<KFM>Art/Units/Poland/rtw_lighttank/7TP.kfm</KFM>
+			<SHADERNIF>Art/Units/Poland/rtw_lighttank/7TP.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10321,9 +10321,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/10TP/10TPv2.nif</NIF>
-			<KFM>Art/Units/10TP/10TP.kfm</KFM>
-			<SHADERNIF>Art/Units/10TP/10TPv2.nif</SHADERNIF>
+			<NIF>Art/Units/Poland/10TP/10TPv2.nif</NIF>
+			<KFM>Art/Units/Poland/10TP/10TP.kfm</KFM>
+			<SHADERNIF>Art/Units/Poland/10TP/10TPv2.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10356,9 +10356,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/CharBis/CharBis.nif</NIF>
-			<KFM>Art/Units/CharBis/CharBis.kfm</KFM>
-			<SHADERNIF>Art/Units/CharBis/CharBis.nif</SHADERNIF>
+			<NIF>Art/Units/France/CharBis/CharBis.nif</NIF>
+			<KFM>Art/Units/France/CharBis/CharBis.kfm</KFM>
+			<SHADERNIF>Art/Units/France/CharBis/CharBis.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10391,9 +10391,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/R35/R35.nif</NIF>
-			<KFM>Art/Units/R35/R35.kfm</KFM>
-			<SHADERNIF>Art/Units/R35/R35.nif</SHADERNIF>
+			<NIF>Art/Units/France/R35/R35.nif</NIF>
+			<KFM>Art/Units/France/R35/R35.kfm</KFM>
+			<SHADERNIF>Art/Units/France/R35/R35.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10426,9 +10426,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Hotchkiss_H-35/H35.nif</NIF>
+			<NIF>Art/Units/France/Hotchkiss_H-35/H35.nif</NIF>
 			<KFM>Art/Units/Tank/Tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Hotchkiss_H-35/H35.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/Hotchkiss_H-35/H35.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10461,9 +10461,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Semovente L40/tank.nif</NIF>
+			<NIF>Art/Units/Italy/Semovente L40/tank.nif</NIF>
 			<KFM>Art/Units/Tank/Tank.kfm</KFM>
-			<SHADERNIF>Art/Units/Semovente L40/tank.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/Semovente L40/tank.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10496,9 +10496,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/tankfiatp26/Fiat.nif</NIF>
-			<KFM>Art/Units/tankfiatp26/Fiat.kfm</KFM>
-			<SHADERNIF>Art/Units/tankfiatp26/Fiat.nif</SHADERNIF>
+			<NIF>Art/Units/Italy/tankfiatp26/Fiat.nif</NIF>
+			<KFM>Art/Units/Italy/tankfiatp26/Fiat.kfm</KFM>
+			<SHADERNIF>Art/Units/Italy/tankfiatp26/Fiat.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10621,9 +10621,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Me262/me262.nif</NIF>
+			<NIF>Art/Units/German/Me262/me262.nif</NIF>
 			<KFM>Art/Units/StealthBomber/StealthBomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Me262/me262.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/Me262/me262.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10651,9 +10651,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Gloster/Gloster_Meteor.nif</NIF>
+			<NIF>Art/Units/UK/Gloster/Gloster_Meteor.nif</NIF>
 			<KFM>Art/Units/StealthBomber/StealthBomber.kfm</KFM>
-			<SHADERNIF>Art/Units/Gloster/Gloster_Meteor_fx.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Gloster/Gloster_Meteor_fx.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10681,9 +10681,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/P59/Airacomet.nif</NIF>
+			<NIF>Art/Units/USA/P59/Airacomet.nif</NIF>
 			<KFM>Art/Units/StealthBomber/StealthBomber.kfm</KFM>
-			<SHADERNIF>Art/Units/P59/Airacomet.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/P59/Airacomet.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10711,9 +10711,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/arado_ar_234/Arado_Ar_234.nif</NIF>
+			<NIF>Art/Units/German/arado_ar_234/Arado_Ar_234.nif</NIF>
 			<KFM>Art/Units/StealthBomber/StealthBomber.kfm</KFM>
-			<SHADERNIF>Art/Units/arado_ar_234/Arado_Ar_234.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/arado_ar_234/Arado_Ar_234.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/StealthBomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10741,9 +10741,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Battleship_Bismarck/bismark.nif</NIF>
-			<KFM>Art/Units/Battleship_Bismarck/bismark.kfm</KFM>
-			<SHADERNIF>Art/Units/Battleship_Bismarck/bismark.nif</SHADERNIF>
+			<NIF>Art/Units/German/Battleship_Bismarck/bismark.nif</NIF>
+			<KFM>Art/Units/German/Battleship_Bismarck/bismark.kfm</KFM>
+			<SHADERNIF>Art/Units/German/Battleship_Bismarck/bismark.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10780,9 +10780,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/kgvbattleship/Battleship.nif</NIF>
-			<KFM>Art/Units/kgvbattleship/battleship.kfm</KFM>
-			<SHADERNIF>Art/Units/kgvbattleship/Battleship.nif</SHADERNIF>
+			<NIF>Art/Units/UK/kgvbattleship/Battleship.nif</NIF>
+			<KFM>Art/Units/UK/kgvbattleship/battleship.kfm</KFM>
+			<SHADERNIF>Art/Units/UK/kgvbattleship/Battleship.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10819,9 +10819,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/79557-USS_Iowa_BB/USS_Iowa_BB.nif</NIF>
+			<NIF>Art/Units/USA/USS_Iowa_BB/USS_Iowa_BB.nif</NIF>
 			<KFM>Art/Units/Battleship/Battleship.kfm</KFM>
-			<SHADERNIF>Art/Units/79557-USS_Iowa_BB/USS_Iowa_BB.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/USS_Iowa_BB/USS_Iowa_BB.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10858,9 +10858,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Battleship_Dunkerque/Battleship.nif</NIF>
+			<NIF>Art/Units/France/Battleship_Dunkerque/Battleship.nif</NIF>
 			<KFM>Art/Units/Battleship/Battleship.kfm</KFM>
-			<SHADERNIF>Art/Units/Battleship_Dunkerque/Battleship.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/Battleship_Dunkerque/Battleship.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10897,9 +10897,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Battleship_RM_Littorio/Battleship.nif</NIF>
+			<NIF>Art/Units/Italy/Battleship_RM_Littorio/Battleship.nif</NIF>
 			<KFM>Art/Units/Battleship/Battleship.kfm</KFM>
-			<SHADERNIF>Art/Units/Battleship_RM_Littorio/Battleship.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/Battleship_RM_Littorio/Battleship.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10936,9 +10936,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/Illustrious_Class/Illustrious_Class_carrier.nif</NIF>
+			<NIF>Art/Units/UK/Illustrious_Class/Illustrious_Class_carrier.nif</NIF>
 			<KFM>Art/Units/Carrier/Carrier.kfm</KFM>
-			<SHADERNIF>Art/Units/Illustrious_Class/Illustrious_Class_carrier.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/Illustrious_Class/Illustrious_Class_carrier.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CarrierShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -10975,9 +10975,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/essexv2/essex.nif</NIF>
+			<NIF>Art/Units/USA/essexv2/essex.nif</NIF>
 			<KFM>Art/Units/Carrier/Carrier.kfm</KFM>
-			<SHADERNIF>Art/Units/essexv2/essex.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/USA/essexv2/essex.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CarrierShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11014,9 +11014,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/graf_zeppelin/Graf_Zeppelin.nif</NIF>
+			<NIF>Art/Units/German/graf_zeppelin/Graf_Zeppelin.nif</NIF>
 			<KFM>Art/Units/Carrier/Carrier.kfm</KFM>
-			<SHADERNIF>Art/Units/graf_zeppelin/Graf_Zeppelin.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/graf_zeppelin/Graf_Zeppelin.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/CarrierShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11092,9 +11092,9 @@
 			<fInterfaceScale>1.1</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ZClass/ZClass.nif</NIF>
-			<KFM>Art/Units/ZClass/ZClass.kfm</KFM>
-			<SHADERNIF>Art/Units/ZClass/ZClass.nif</SHADERNIF>
+			<NIF>Art/Units/German/ZClass/ZClass.nif</NIF>
+			<KFM>Art/Units/German/ZClass/ZClass.kfm</KFM>
+			<SHADERNIF>Art/Units/German/ZClass/ZClass.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/DestroyerShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11131,9 +11131,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/U_Class/U_Class_submarine.nif</NIF>
+			<NIF>Art/Units/UK/U_Class/U_Class_submarine.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/U_Class/U_Class_submarine.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/U_Class/U_Class_submarine.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11161,9 +11161,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/HMSHood/HMSHood.nif</NIF>
+			<NIF>Art/Units/UK/HMSHood/HMSHood.nif</NIF>
 			<KFM>Art/Units/Battleship/Battleship.kfm</KFM>
-			<SHADERNIF>Art/Units/HMSHood/HMSHood.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/UK/HMSHood/HMSHood.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11302,9 +11302,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/campini/jetfighter.nif</NIF>
+			<NIF>Art/Units/Italy/campini/jetfighter.nif</NIF>
 			<KFM>Art/Units/JetFighter/JetFighter.kfm</KFM>
-			<SHADERNIF>Art/Units/campini/jetfighter.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/Italy/campini/jetfighter.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/JetFighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11626,9 +11626,9 @@
 			<fInterfaceScale>1.3</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/94961-xxiii/XXIII.nif</NIF>
+			<NIF>Art/Units/German/xxiii/XXIII.nif</NIF>
 			<KFM>Art/Units/Submarine/Submarine.kfm</KFM>
-			<SHADERNIF>Art/Units/94961-xxiii/XXIII.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/xxiii/XXIII.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BattleshipShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11691,9 +11691,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/leo451//LeO451.nif</NIF>
+			<NIF>Art/Units/France/leo451//LeO451.nif</NIF>
 			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
-			<SHADERNIF>Art/Units/leo451/LeO451.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/France/leo451/LeO451.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11756,9 +11756,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/ISU_152/ISU_152.nif</NIF>
-			<KFM>Art/Units/ISU_152/ISU_152.kfm</KFM>
-			<SHADERNIF>Art/Units/ISU_152/ISU_152.nif</SHADERNIF>
+			<NIF>Art/Units/USSR/ISU_152/ISU_152.nif</NIF>
+			<KFM>Art/Units/USSR/ISU_152/ISU_152.kfm</KFM>
+			<SHADERNIF>Art/Units/USSR/ISU_152/ISU_152.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11791,9 +11791,9 @@
 			<fInterfaceScale>0.9</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/rtw_modarty/Wespe.nif</NIF>
-			<KFM>Art/Units/rtw_modarty/Wespe.kfm</KFM>
-			<SHADERNIF>Art/Units/rtw_modarty/Wespe.nif</SHADERNIF>
+			<NIF>Art/Units/German/rtw_modarty/Wespe.nif</NIF>
+			<KFM>Art/Units/German/rtw_modarty/Wespe.kfm</KFM>
+			<SHADERNIF>Art/Units/German/rtw_modarty/Wespe.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11826,9 +11826,9 @@
 			<fInterfaceScale>1.0</fInterfaceScale>
 			<bActAsLand>0</bActAsLand>
 			<bActAsAir>0</bActAsAir>
-			<NIF>Art/Units/bf109g10/bf109g10final.nif</NIF>
+			<NIF>Art/Units/German/bf109g10/bf109g10final.nif</NIF>
 			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
-			<SHADERNIF>Art/Units/bf109g10/bf109g10final.nif</SHADERNIF>
+			<SHADERNIF>Art/Units/German/bf109g10/bf109g10final.nif</SHADERNIF>
 			<ShadowDef>
 				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
 				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
@@ -11977,6 +11977,406 @@
 				<AudioRunTypeLoop/>
 				<AudioRunTypeEnd/>
 			</AudioRunSounds>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_TACAMR2</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Romania/TACAMR2/TACAMR2.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Romania/TACAMR2/TACAMR2.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_CA135</Type>
+			<Button>,Art/Interface/Buttons/Units/Bomber.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,10</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/Ca135/Ca135.nif</NIF>
+			<KFM>Art/Units/Bomber/Bomber.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/Ca135/Ca135.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/BomberShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.75</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fBankRate>0.35</fBankRate>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
+			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
+			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_TOLDII</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/toldII/ToldII.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/toldII/ToldII.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_TURANII</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/TuranII/TuranII.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/TuranII/TuranII.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_TURANIII</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/TuranIII/TuranIII.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/TuranIII/TuranIII.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_ZRIYU</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/ZriyuI/ZrinyiI.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/ZriyuI/ZrinyiI.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.5</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_ZRIYUII</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/ZriyuII/zriyuII.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/ZriyuII/zriyuII.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.5</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_RE2000</Type>
+			<Button>,Art/Interface/Buttons/Units/Fighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,10</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Hungary/Re2000/Heja.nif</NIF>
+			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
+			<SHADERNIF>Art/Units/Hungary/Re2000/Heja.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.75</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fBankRate>0.35</fBankRate>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
+			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
+			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_BA65</Type>
+			<Button>,Art/Interface/Buttons/Units/Fighter.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,6,10</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Italy/Ba65/Ba65.nif</NIF>
+			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
+			<SHADERNIF>Art/Units/Italy/Ba65/Ba65.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.75</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fBankRate>0.35</fBankRate>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
+			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
+			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_MC205</Type>
+			<Button>,Art/Units/Italy/MC202/MC202_button.dds,Art/Units/Italy/MC202/MC202_button.dds,0,0</Button>
+			<fScale>0.5</fScale>
+			<fInterfaceScale>1.0</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Italy/MC205/MC205.nif</NIF>
+			<KFM>Art/Units/Fighter/Fighter.kfm</KFM>
+			<SHADERNIF>Art/Units/Italy/MC205/MC205.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/FighterShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>0.75</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<fBattleDistance>0.35</fBattleDistance>
+			<fRangedDeathTime>0.31</fRangedDeathTime>
+			<bSmoothMove>1</bSmoothMove>
+			<fBankRate>0.35</fBankRate>
+			<bActAsRanged>0</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop/>
+				<AudioRunTypeEnd/>
+			</AudioRunSounds>
+			<PatrolSound>AS3D_UN_FIGHTER_PATROL</PatrolSound>
+			<SelectionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</SelectionSound>
+			<ActionSound>AS3D_UN_FIGHTER_COMMAND_PATROL</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SEVEMONTE105</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Italy/Semovete105/sevomente.nif</NIF>
+			<KFM>Art/Units/Tank/Tank.kfm</KFM>
+			<SHADERNIF>Art/Units/Italy/Semovete105/sevomente.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
+		</UnitArtInfo>
+		<UnitArtInfo>
+			<Type>ART_DEF_UNIT_SEVEMONTE75</Type>
+			<Button>,Art/Interface/Buttons/Units/Tank.dds,Art/Interface/Buttons/Unit_Resource_Atlas.dds,4,11</Button>
+			<fScale>0.48</fScale>
+			<fInterfaceScale>0.9</fInterfaceScale>
+			<bActAsLand>0</bActAsLand>
+			<bActAsAir>0</bActAsAir>
+			<NIF>Art/Units/Italy/semovente7518/semovente75-18.nif</NIF>
+			<KFM>Art/Units/Italy/semovente7518/semovente75-18.kfm</KFM>
+			<SHADERNIF>Art/Units/Italy/semovente7518/semovente75-18.nif</SHADERNIF>
+			<ShadowDef>
+				<ShadowNIF>Art/Units/01_UnitShadows/TankShadow.nif</ShadowNIF>
+				<ShadowAttachNode>BIP Pelvis</ShadowAttachNode>
+				<fShadowScale>1.0</fShadowScale>
+			</ShadowDef>
+			<iDamageStates>4</iDamageStates>
+			<TrailDefinition>
+				<Texture>Art/Shared/tanktread.dds</Texture>
+				<fWidth>0.8</fWidth>
+				<fLength>180.0</fLength>
+				<fTaper>0.0</fTaper>
+				<fFadeStartTime>0.2</fFadeStartTime>
+				<fFadeFalloff>0.35</fFadeFalloff>
+			</TrailDefinition>
+			<fBattleDistance>0.5</fBattleDistance>
+			<fRangedDeathTime>0.12</fRangedDeathTime>
+			<bActAsRanged>1</bActAsRanged>
+			<TrainSound>AS2D_UNIT_BUILD_UNIT</TrainSound>
+			<AudioRunSounds>
+				<AudioRunTypeLoop>LOOPSTEP_TANK</AudioRunTypeLoop>
+				<AudioRunTypeEnd>ENDSTEP_TANK</AudioRunTypeEnd>
+			</AudioRunSounds>
+			<SelectionSound>AS3D_UN_TANK_FORT</SelectionSound>
+			<ActionSound>AS3D_UN_TANK_FORT</ActionSound>
 		</UnitArtInfo>
 	</UnitArtInfos>
 </Civ4ArtDefines>

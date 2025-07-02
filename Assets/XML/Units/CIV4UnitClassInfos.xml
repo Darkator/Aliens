@@ -218,7 +218,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_HEAVY_TANK</Type>
-			<Description>TXT_KEY_UNIT_LIGHT_TANK</Description>
+			<Description>Heavy Tank</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
@@ -254,7 +254,7 @@
 		</UnitClassInfo>
 		<UnitClassInfo>
 			<Type>UNITCLASS_MEDIUM2_TANK</Type>
-			<Description>TXT_KEY_UNIT_LIGHT_TANK</Description>
+			<Description>Second Medium Tank</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
 			<iMaxTeamInstances>-1</iMaxTeamInstances>
 			<iMaxPlayerInstances>-1</iMaxPlayerInstances>

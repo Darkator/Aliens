@@ -1909,7 +1909,22 @@
 					<UnitClassType>UNITCLASS_BATTLESHIP</UnitClassType>
 					<UnitType>UNIT_LITTORIO</UnitType>
 				</Unit>
-
+				<Unit>
+					<UnitClassType>UNITCLASS_AVANCED2_FIGHTER</UnitClassType>
+					<UnitType>UNIT_MC205</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_AT_FIGHTER</UnitClassType>
+					<UnitType>UNIT_BA65</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
+					<UnitType>UNIT_SEVOMENTE105</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TANK_ARTILLERY</UnitClassType>
+					<UnitType>UNIT_SEVOMENTE75</UnitType>
+				</Unit>
 			</Units>
 				
 			<FreeUnitClasses>
@@ -3561,10 +3576,10 @@
 				
 			</DisableTechs>
 			<InitialCivics>
-				<CivicType>CIVIC_DEMOCRATIC</CivicType>
-				<CivicType>CIVIC_DEMOCRATIC_ECO</CivicType>
-				<CivicType>CIVIC_DEMOCRATIC_DOCT</CivicType>
-				<CivicType>CIVIC_DEMOCRATIC_GO</CivicType>
+				<CivicType>CIVIC_FASISM_GO</CivicType>
+				<CivicType>CIVIC_FASCISM</CivicType>
+				<CivicType>CIVIC_FACISM_ECO</CivicType>
+				<CivicType>CIVIC_AXIS_DOCTRINE</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4181,12 +4196,24 @@
 			<Buildings/>
 			<Units>
 				<Unit>
+					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
+					<UnitType>UNIT_ZRIYUIII</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_LIGHT_TANK</UnitClassType>
+					<UnitType>UNIT_TOLDII</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TANK_DESTROYER</UnitClassType>
+					<UnitType>UNIT_ZRIYUII</UnitType>
+				</Unit>
+				<Unit>
 					<UnitClassType>UNITCLASS_MEDIUM_TANK</UnitClassType>
-					<UnitType>UNIT_PANZER3</UnitType>
+					<UnitType>UNIT_TURANII</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_MEDIUM2_TANK</UnitClassType>
-					<UnitType>UNIT_PANZER4</UnitType>
+					<UnitType>UNIT_TURANIII</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_HEAVY_TANK</UnitClassType>
@@ -4195,10 +4222,6 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_TANK</UnitClassType>
 					<UnitType>UNIT_GERMAN_PANZER</UnitType>
-				</Unit>
-				<Unit>
-					<UnitClassType>UNITCLASS_ASSULT_GUN</UnitClassType>
-					<UnitType>UNIT_TANK_GERMAN_ARTILLERY</UnitType>
 				</Unit>
 				<Unit>
 					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
@@ -4215,6 +4238,22 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_HEAVY_FIGHTER</UnitClassType>
 					<UnitType>UNIT_MESSERSCHMIT_BF110</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_INTER_WAR_FIGHTER</UnitClassType>
+					<UnitType>UNIT_FIAT42</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_FIGHTER</UnitClassType>
+					<UnitType>UNIT_MESSERSCHMIT_BF109</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_SECOND_FIGHTER</UnitClassType>
+					<UnitType>UNIT_RE2000</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_MEDIUM_BOMBER</UnitClassType>
+					<UnitType>UNIT_CA135</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>
@@ -4347,6 +4386,10 @@
 				<Unit>
 					<UnitClassType>UNITCLASS_ADVANCED_FIGHTER</UnitClassType>
 					<UnitType>UNIT_BF109G10</UnitType>
+				</Unit>
+				<Unit>
+					<UnitClassType>UNITCLASS_TANK_DESTROYER</UnitClassType>
+					<UnitType>UNIT_TACAM</UnitType>
 				</Unit>
 			</Units>
 			<FreeUnitClasses>

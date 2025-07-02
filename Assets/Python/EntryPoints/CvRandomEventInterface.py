@@ -4124,7 +4124,7 @@ def SpanisCvilWarTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 263):
+	if (turn == 13):
 	
 		# new code
 
@@ -4215,6 +4215,12 @@ def SpanisCvilWar(argsList):
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	iUnitType = CvUtil.findInfoTypeNum(gc.getUnitInfo, gc.getNumUnitInfos(
 	), 'UNIT_PANZER2')  # The Units, here are 3 conquistadors, 1 explorer#
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
@@ -4261,11 +4267,20 @@ def SpanisCvilWar(argsList):
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
 	player.initUnit(iUnitType, plot.getX(), plot.getY(),
 					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+	player.initUnit(iUnitType, plot.getX(), plot.getY(),
+					UnitAITypes.NO_UNITAI, DirectionTypes.DIRECTION_SOUTH)
+
 def VichyFranceTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 305):
+	if (turn == 55):
 	
 		# new code
 
@@ -4407,7 +4422,7 @@ def ALIENTrriger(argsList):  # Remember that that's the tag##
 	kTriggeredData = argsList[0]
 	turn = kTriggeredData.iTurn
 	player = gc.getPlayer(kTriggeredData.ePlayer)
-	if (turn == 285):
+	if (turn == 10):
 	
 		# new code
 

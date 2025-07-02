@@ -70,7 +70,7 @@
             <bPrereqEventPlot>0</bPrereqEventPlot>
             <OrPreReqs/>
             <AndPreReqs>
-                <PrereqTech>TECH_MILLITARY_DOCTRINE</PrereqTech>
+                <PrereqTech>NONE</PrereqTech>
             </AndPreReqs>
             <ObsoleteTechs/>
             <bRecurring>0</bRecurring>

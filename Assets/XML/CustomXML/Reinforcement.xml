@@ -30,7 +30,7 @@
 		<Event>
 			<Owner>CIVILIZATION_WW2_IBERIA</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>263</iTurn>
+			<iTurn>13</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			<Units>
@@ -49,7 +49,62 @@
 					<iDamage>0</iDamage>
 				</Unit>
 			
-			
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>5</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>44</iPlotX>
+					<iPlotY>14</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>5</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>43</iPlotX>
+					<iPlotY>14</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>5</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>43</iPlotX>
+					<iPlotY>13</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>5</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>43</iPlotX>
+					<iPlotY>12</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
 				<Unit>
 					<Type>UNIT_INFANTRY</Type>
 					<LeaderUnit>NONE</LeaderUnit>
@@ -85,9 +140,64 @@
 			<Message>NONE</Message>
 		</Event>	
 		<Event>
+			<Owner>CIVILIZATION_WW2_IBERIA</Owner>
+			<iDate>NONE</iDate>
+			<iTurn>30</iTurn>
+			<sTriggerMap>NONE</sTriggerMap>
+			<sIgnoreMap>NONE</sIgnoreMap>
+			<Units>
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>8</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>44</iPlotX>
+					<iPlotY>13</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+			
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>8</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>44</iPlotX>
+					<iPlotY>8</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				
+				<Unit>
+					<Type>UNIT_INFANTRY</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>8</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>47</iPlotX>
+					<iPlotY>13</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_GUERILLA2</Promotion>
+					<Promotion>PROMOTION_GUERILLA1</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
+				
+			</Units>
+			<Message>NONE</Message>
+		</Event>
+		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>312</iTurn>
+			<iTurn>62</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -129,11 +239,26 @@
 		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>288</iTurn>
+			<iTurn>22</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
 			<Units>
+				<Unit>
+					<Type>UNIT_ALEN_WARRIOR</Type>
+					<LeaderUnit>NONE</LeaderUnit>
+					<iQuantity>20</iQuantity>
+					<bCapital>0</bCapital>
+					<iPlotX>68</iPlotX>
+					<iPlotY>13</iPlotY>
+					<iLevel>2</iLevel>
+					<iExperience>5</iExperience>
+					<Promotion>PROMOTION_COMBAT1</Promotion>
+					<Promotion>PROMOTION_PINCH</Promotion>
+					<Promotion>PROMOTION_LEADERSHIP</Promotion>
+					<iImmobile>0</iImmobile>
+					<iDamage>0</iDamage>
+				</Unit>
 				<Unit>
 					<Type>UNIT_ALEN_WARRIOR</Type>
 					<LeaderUnit>NONE</LeaderUnit>
@@ -172,7 +297,7 @@
 		<Event>
 			<Owner>CIVILIZATION_ALIEN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>292</iTurn>
+			<iTurn>30</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -244,7 +369,7 @@
 		<Event>
 			<Owner>CIVILIZATION_WW2_VICHY</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>306</iTurn>
+			<iTurn>56</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			
@@ -385,7 +510,7 @@
 		<Event>
 			<Owner>CIVILIZATION_BARBARIAN</Owner>
 			<iDate>NONE</iDate>
-			<iTurn>311</iTurn>
+			<iTurn>61</iTurn>
 			<sTriggerMap>NONE</sTriggerMap>
 			<sIgnoreMap>NONE</sIgnoreMap>
 			

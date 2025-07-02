@@ -399,7 +399,7 @@ class CvEventManager:
 		'Called at the beginning of the end of each turn'
 		iGameTurn = argsList[0]
 		CvTopCivs.CvTopCivs().turnChecker(iGameTurn)
-		if iGameTurn == 252:
+		if iGameTurn == 2:
 			self.pEnglandID = 1
 			self.pIndiaID = 27
 			self.pAUSID = 15
@@ -410,7 +410,7 @@ class CvEventManager:
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pAUSID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pCanadaID).getTeam())
 			
-		if iGameTurn == 261:
+		if iGameTurn == 11:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_WW2_IBERIA")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_SPAIN")
@@ -428,7 +428,7 @@ class CvEventManager:
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
 			
 			
-		if iGameTurn == 263:
+		if iGameTurn == 13:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_AUSTRIA")
@@ -447,7 +447,7 @@ class CvEventManager:
 			
 			###popup end
 
-		if iGameTurn == 276:
+		if iGameTurn == 26:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ROME")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_ALBANIA")
@@ -465,7 +465,7 @@ class CvEventManager:
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
 		
 			###popup end
-		if iGameTurn == 278:
+		if iGameTurn == 28:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_CZECHOSLAVAKIA")
@@ -481,7 +481,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 285:
+		if iGameTurn == 8:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_OTTOMAN")
@@ -498,7 +498,7 @@ class CvEventManager:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
 		
-		if iGameTurn == 295:
+		if iGameTurn == 45:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_POLAND")
@@ -554,7 +554,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 301:
+		if iGameTurn == 51:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_NETHERLANDS")
@@ -570,7 +570,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 303:
+		if iGameTurn == 53:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_FRANCE")
@@ -594,13 +594,13 @@ class CvEventManager:
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(iVictimPlayer).getTeam())
 			
-		if iGameTurn == 305:
+		if iGameTurn == 55:
 			self.pGermanID = 0
 			self.pItalyID = 6
 			self.pGermanyTeam = gc.getTeam(gc.getPlayer(self.pGermanID).getTeam())
 			self.pGermanyTeam.addTeam(gc.getPlayer(self.pItalyID).getTeam())
 			###popup end
-		if iGameTurn == 305:
+		if iGameTurn == 55:
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_SCANDINAVIA")
 			iDeclaringPlayer = -1
@@ -618,7 +618,7 @@ class CvEventManager:
 			self.pEnglandID = 1
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(iVictimPlayer).getTeam())
-		if iGameTurn == 306:
+		if iGameTurn == 56:
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_DUTCH")
 			iDeclaringPlayer = -1
@@ -636,7 +636,7 @@ class CvEventManager:
 			self.pEnglandID = 1
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(iVictimPlayer).getTeam())
-		if iGameTurn == 307:
+		if iGameTurn == 57:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ROME")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_GREECE")
@@ -656,7 +656,7 @@ class CvEventManager:
 			self.pGreeceID = 21
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pGreeceID).getTeam())
-		if iGameTurn == 313:
+		if iGameTurn == 63:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_YUGOSLAVIA")
@@ -672,7 +672,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)			
-		if iGameTurn == 313:
+		if iGameTurn == 63:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_YUGOSLAVIA")
@@ -700,7 +700,7 @@ class CvEventManager:
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pYugoslaviaID).getTeam())
 			
 			self.pGermanyTeam.addTeam(gc.getPlayer(self.pHungaryID).getTeam())
-		if iGameTurn == 319:
+		if iGameTurn == 69:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_RUSSIA")
@@ -721,7 +721,7 @@ class CvEventManager:
 			self.pEnglandTeam = gc.getTeam(gc.getPlayer(self.pEnglandID).getTeam())
 			
 			self.pEnglandTeam.addTeam(gc.getPlayer(self.pUSAID).getTeam())
-		if iGameTurn == 304:
+		if iGameTurn == 54:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_ENGLAND")
@@ -737,7 +737,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 308:
+		if iGameTurn == 58:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_GERMANY")
@@ -753,7 +753,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 310:
+		if iGameTurn == 75:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_RUSSIA")
@@ -769,7 +769,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 310:
+		if iGameTurn == 60:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_PORTUGAL")
@@ -785,7 +785,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 310:
+		if iGameTurn == 60:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_IRELAND")
@@ -801,7 +801,7 @@ class CvEventManager:
 			if iDeclaringPlayer ==-1 or iVictimPlayer ==-1:
 						return
 			gc.getTeam(gc.getPlayer(iDeclaringPlayer).getTeam()).declareWar(iVictimPlayer, false, WarPlanTypes.WARPLAN_TOTAL)
-		if iGameTurn == 310:
+		if iGameTurn == 60:
 			###declare war begin###
 			iTypeDeclaringCiv = gc.getInfoTypeForString("CIVILIZATION_ALIEN")
 			iTypeVictim = gc.getInfoTypeForString("CIVILIZATION_WW2_IBERIA")

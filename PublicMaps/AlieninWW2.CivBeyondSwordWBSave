@@ -1,6 +1,6 @@
 Version=11
 BeginGame
-	Era=ERA_INDUSTRIAL
+	Era=ERA_ANCIENT
 	Speed=GAMESPEED_NORMAL
 	Calendar=CALENDAR_MONTHS
 	Option=GAMEOPTION_NO_CITY_RAZING
@@ -16,12 +16,12 @@ BeginGame
 	Victory=VICTORY_DOMINATION
 	Victory=VICTORY_SPACE_RACE
 	Victory=VICTORY_DIPLOMATIC
-	GameTurn=250
+	GameTurn=0
 	MaxTurns=900
 	MaxCityElimination=0
 	NumAdvancedStartPoints=0
 	TargetScore=0
-	StartYear=1915
+	StartYear=1936
 	Description=
 	ModPath=Aliens
 EndGame
@@ -1591,21 +1591,21 @@ BeginPlayer
 	CivShortDesc=TXT_KEY_CIV_WW2_NIBERIA_SHORT_DESC
 	CivAdjective=TXT_KEY_CIV_WW2_NIBERIA_ADJECTIVE
 	FlagDecal=Art/Interface/TeamColor/iberia.dds
-	WhiteFlag=0
+	WhiteFlag=1
 	CivType=CIVILIZATION_WW2_IBERIA
 	Color=PLAYERCOLOR_MIDDLE_CYAN
 	ArtStyle=ARTSTYLE_EUROPEAN
 	PlayableCiv=1
 	MinorNationStatus=0
-	StartingGold=0
+	StartingGold=5000
 	StateReligion=
 	StartingEra=ERA_INDUSTRIAL
 	RandomStartLocation=false
-	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_DEMOCRATIC
-	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_DEMOCRATIC_ECO
-	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_DEMOCRATIC_DOCT
-	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_DEMOCRATIC_GO
-	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_DEMOCRATIC_GO
+	CivicOption=CIVICOPTION_GOVERNMENT, Civic=CIVIC_FASISM_GO
+	CivicOption=CIVICOPTION_LEGAL, Civic=CIVIC_FASLAW
+	CivicOption=CIVICOPTION_LABOR, Civic=CIVIC_AXIS_DOCTRINE
+	CivicOption=CIVICOPTION_ECONOMY, Civic=CIVIC_FACISM_ECO
+	CivicOption=CIVICOPTION_RELIGION, Civic=CIVIC_FASCISM
 	Handicap=HANDICAP_NOBLE
 EndPlayer
 BeginPlayer
@@ -1811,7 +1811,7 @@ BeginMap
 	bottom latitude=0
 	wrap X=0
 	wrap Y=0
-	world size=WORLDSIZE_LARGE
+	world size=WORLDSIZE_DUEL
 	climate=CLIMATE_TEMPERATE
 	sealevel=SEALEVEL_MEDIUM
 	num plots written=3168
@@ -3701,6 +3701,7 @@ BeginPlot
 		CityPopulation=1
 		BuildingType=BUILDING_PALACE
 		ReligionType=RELIGION_WW2_DEMOCRACY
+		ReligionType=BUILDING_WW2_WHOUSE
 		Player3Culture=100
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
@@ -4522,7 +4523,7 @@ BeginPlot
 	EndUnit
 	BeginCity
 		CityOwner=3
-		CityName=Bosto
+		CityName=Boston
 		CityPopulation=1
 		BuildingType=BUILDING_THEATRE
 		ReligionType=RELIGION_WW2_DEMOCRACY
@@ -15650,6 +15651,7 @@ BeginPlot
 		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_UNIVERSITY
 		ReligionType=RELIGION_WW2_DEMOCRACY
+		ReligionType=BUILDING_WW2_BIGBEN
 		HolyCityReligionType=RELIGION_WW2_DEMOCRACY
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
@@ -16557,6 +16559,7 @@ BeginPlot
 		BuildingType=BUILDING_THEATRE
 		BuildingType=BUILDING_UNIVERSITY
 		ReligionType=RELIGION_WW2_DEMOCRACY
+		ReligionType=BUILDING_EIFFEL_TOWER
 		Player2Culture=10
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
@@ -17592,6 +17595,7 @@ BeginPlot
 		BuildingType=BUILDING_THEATRE
 		BuildingType=BUILDING_UNIVERSITY
 		BuildingType=BUILDING_COLONI
+		BuildingType=BUILDING_WW2_PISA
 		ReligionType=RELIGION_WW2_FASCISM
 		HolyCityReligionType=RELIGION_WW2_FASCISM
 	EndCity
@@ -18996,6 +19000,7 @@ BeginPlot
 		BuildingType=BUILDING_UNIVERSITY
 		BuildingType=BUILDING_COLONI
 		ReligionType=RELIGION_WW2_FASCISM
+		ReligionType=BUILDING_WW2_REICHSTAG
 		Player0Culture=10
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
@@ -20077,6 +20082,7 @@ BeginPlot
 		CityPopulation=1
 		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_THEATRE
+		BuildingType=BUILDING_FUEL_REFINARY
 		Player23Culture=10
 		ReligionType=RELIGION_WW2_FASCISM
 	EndCity
@@ -20808,6 +20814,7 @@ BeginPlot
 		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_THEATRE
 		BuildingType=BUILDING_UNIVERSITY
+		BuildingType=BUILDING_HAGIA_SOPHIA
 		ReligionType=RELIGION_WW2_NEUTRAL
 		HolyCityReligionType=RELIGION_WW2_NEUTRAL
 		Player10Culture=10
@@ -24448,6 +24455,7 @@ BeginPlot
 		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_THEATRE
 		BuildingType=BUILDING_UNIVERSITY
+		BuildingType=BUILDING_KREMLIN
 		ReligionType=RELIGION_WW2_COMMUNISM
 		HolyCityReligionType=RELIGION_WW2_COMMUNISM
 		Player4Culture=100
@@ -24576,6 +24584,7 @@ BeginPlot
 		BuildingType=BUILDING_PALACE
 		BuildingType=BUILDING_UNIVERSITY
 		BuildingType=BUILDING_COLONI
+		BuildingType=BUILDING_TAJ_MAHAL
 	EndCity
 	TeamReveal=0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,
 EndPlot
